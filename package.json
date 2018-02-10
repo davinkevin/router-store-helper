@@ -5,6 +5,7 @@
   "scripts": {
     "ng": "ng",
     "build": "angular-package-builder",
+    "prepare": "angular-package-builder",
     "test": "ng test",
     "lint": "ng lint"
   },
