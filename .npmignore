@@ -7,3 +7,4 @@
 *.lock
 src
 *.log
+.idea
