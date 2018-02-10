@@ -1,10 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
 !package.json
 !dist
-*.js
-*.md
-*.json
-*.lock
+/*.js
+/README.md
+/*.json
+/*.lock
 src
 *.log
-.idea
+/.idea
+.editorconfig
+.DS_Store
