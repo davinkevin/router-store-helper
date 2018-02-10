@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+!package.json
+!dist
+*.js
+*.md
+*.json
+*.lock
+src
+*.log
