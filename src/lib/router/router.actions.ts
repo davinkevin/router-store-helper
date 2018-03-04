@@ -8,28 +8,16 @@ export enum RouterActions {
 
 // => https://angular.io/api/router/Router#navigate
 
-export interface NavigateParameters {
-  commands: any[];
-  extras?: NavigationExtras;
-}
-
 export class RouterNavigateAction implements Action {
   readonly type = RouterActions.navigate;
-  constructor(public params: NavigateParameters) {}
+  constructor(public commands: any[], public extras: NavigationExtras) {}
 }
 
 // => https://angular.io/api/router/Router#navigateByUrl
 
-export interface NavigateByUrlParameters {
-  url: string | UrlTree;
-  extras?: NavigationExtras;
-}
-
 export class RouterNavigateByUrlAction implements Action {
   readonly type = RouterActions.navigateByUrl;
-  constructor(public params: NavigateByUrlParameters) {}
+  constructor(public url: string | UrlTree, public extras: NavigationExtras) {}
 }
 
-export type AllRouterActions
-  = RouterNavigateAction
-  | RouterNavigateByUrlAction;
+export type AllRouterActions = RouterNavigateAction | RouterNavigateByUrlAction;
