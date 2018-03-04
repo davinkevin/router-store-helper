@@ -8,14 +8,9 @@ export enum LocationActions {
 
 // => https://angular.io/api/common/Location#go
 
-export interface GoParameters {
-  path: string;
-  query: string;
-}
-
 export class LocationGoAction implements Action {
   readonly type = LocationActions.go;
-  constructor(public params: GoParameters) {}
+  constructor(public path: string, public query: string) {}
 }
 
 // => https://angular.io/api/common/Location#forward

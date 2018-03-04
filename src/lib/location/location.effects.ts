@@ -12,7 +12,7 @@ export class LocationEffects {
   go$: Observable<LocationGoAction> = this.actions$
     .pipe(
       ofType(LocationActions.go),
-      tap((a: LocationGoAction) => this.location.go(a.params.path, a.params.query))
+      tap(({path, query}: LocationGoAction) => this.location.go(path, query))
     );
 
   @Effect({dispatch: false})
