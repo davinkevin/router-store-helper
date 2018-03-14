@@ -10,14 +10,14 @@ export enum RouterActions {
 
 export class RouterNavigateAction implements Action {
   readonly type = RouterActions.navigate;
-  constructor(public commands: any[], public extras: NavigationExtras) {}
+  constructor(public commands: any[], public extras?: NavigationExtras) {}
 }
 
 // => https://angular.io/api/router/Router#navigateByUrl
 
 export class RouterNavigateByUrlAction implements Action {
   readonly type = RouterActions.navigateByUrl;
-  constructor(public url: string | UrlTree, public extras: NavigationExtras) {}
+  constructor(public url: string | UrlTree, public extras?: NavigationExtras) {}
 }
 
 export type AllRouterActions = RouterNavigateAction | RouterNavigateByUrlAction;
