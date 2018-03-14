@@ -10,7 +10,7 @@ export enum LocationActions {
 
 export class LocationGoAction implements Action {
   readonly type = LocationActions.go;
-  constructor(public path: string, public query: string) {}
+  constructor(public path: string, public query?: string) {}
 }
 
 // => https://angular.io/api/common/Location#forward
