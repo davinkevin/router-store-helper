@@ -3,7 +3,7 @@ import {Actions, Effect, ofType} from '@ngrx/effects';
 import {RouterActions, RouterNavigateAction, RouterNavigateByUrlAction} from './router.actions';
 import {tap} from 'rxjs/operators';
 import {Router} from '@angular/router';
-import {Observable} from 'rxjs/Observable';
+import {Observable} from 'rxjs';
 
 @Injectable()
 export class RouterEffects {
