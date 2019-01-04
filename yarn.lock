@@ -4,7 +4,7 @@
 
 "@angular-devkit/architect@0.10.6":
   version "0.10.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular-devkit/architect/-/architect-0.10.6.tgz#7007e7591be21eeb478951106c84c83802ca21a4"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.10.6.tgz#7007e7591be21eeb478951106c84c83802ca21a4"
   integrity sha1-cAfnWRviHutHiVEQbITIOALKIaQ=
   dependencies:
     "@angular-devkit/core" "7.0.6"
@@ -12,7 +12,7 @@
 
 "@angular-devkit/architect@0.11.4":
   version "0.11.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular-devkit/architect/-/architect-0.11.4.tgz#f0cc3b4f1dd0128f6b41d3bb760bcf4c324cd063"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.11.4.tgz#f0cc3b4f1dd0128f6b41d3bb760bcf4c324cd063"
   integrity sha1-8Mw7Tx3QEo9rQdO7dgvPTDJM0GM=
   dependencies:
     "@angular-devkit/core" "7.1.4"
@@ -20,7 +20,7 @@
 
 "@angular-devkit/build-angular@~0.11.4":
   version "0.11.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular-devkit/build-angular/-/build-angular-0.11.4.tgz#795084e29c66a71da15227cf2ac29794aa807c7c"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-angular/-/build-angular-0.11.4.tgz#795084e29c66a71da15227cf2ac29794aa807c7c"
   integrity sha1-eVCE4pxmpx2hUifPKsKXlKqAfHw=
   dependencies:
     "@angular-devkit/architect" "0.11.4"
@@ -74,7 +74,7 @@
 
 "@angular-devkit/build-ng-packagr@~0.11.4":
   version "0.11.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular-devkit/build-ng-packagr/-/build-ng-packagr-0.11.4.tgz#f4f60bb1dec189bc72b4645579e0d028260187fd"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-ng-packagr/-/build-ng-packagr-0.11.4.tgz#f4f60bb1dec189bc72b4645579e0d028260187fd"
   integrity sha1-9PYLsd7BibxytGRVeeDQKCYBh/0=
   dependencies:
     "@angular-devkit/architect" "0.11.4"
@@ -84,7 +84,7 @@
 
 "@angular-devkit/build-optimizer@0.11.4":
   version "0.11.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular-devkit/build-optimizer/-/build-optimizer-0.11.4.tgz#d96b0e16a76f3825f173220a2de5f376fc5abaee"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-optimizer/-/build-optimizer-0.11.4.tgz#d96b0e16a76f3825f173220a2de5f376fc5abaee"
   integrity sha1-2WsOFqdvOCXxcyIKLeXzdvxauu4=
   dependencies:
     loader-utils "1.1.0"
@@ -94,7 +94,7 @@
 
 "@angular-devkit/build-webpack@0.11.4":
   version "0.11.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular-devkit/build-webpack/-/build-webpack-0.11.4.tgz#1397b21b6187eab0641830ece4c3b9faba00855e"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-webpack/-/build-webpack-0.11.4.tgz#1397b21b6187eab0641830ece4c3b9faba00855e"
   integrity sha1-E5eyG2GH6rBkGDDs5MO5+roAhV4=
   dependencies:
     "@angular-devkit/architect" "0.11.4"
@@ -103,7 +103,7 @@
 
 "@angular-devkit/core@7.0.6":
   version "7.0.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular-devkit/core/-/core-7.0.6.tgz#26c4cd4d271e8cd03f6e50b4ec30cbc606f3346e"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-7.0.6.tgz#26c4cd4d271e8cd03f6e50b4ec30cbc606f3346e"
   integrity sha1-JsTNTScejNA/blC07DDLxgbzNG4=
   dependencies:
     ajv "6.5.3"
@@ -114,7 +114,7 @@
 
 "@angular-devkit/core@7.1.4":
   version "7.1.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular-devkit/core/-/core-7.1.4.tgz#4d903fd2ecc259b716ae76da19695d03993e583c"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-7.1.4.tgz#4d903fd2ecc259b716ae76da19695d03993e583c"
   integrity sha1-TZA/0uzCWbcWrnbaGWldA5k+WDw=
   dependencies:
     ajv "6.5.3"
@@ -125,7 +125,7 @@
 
 "@angular-devkit/schematics@7.0.6":
   version "7.0.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular-devkit/schematics/-/schematics-7.0.6.tgz#97fca028bd937e2319d9d34c12b82e8d1d99de23"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-7.0.6.tgz#97fca028bd937e2319d9d34c12b82e8d1d99de23"
   integrity sha1-l/ygKL2TfiMZ2dNMErgujR2Z3iM=
   dependencies:
     "@angular-devkit/core" "7.0.6"
@@ -133,14 +133,14 @@
 
 "@angular/animations@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/animations/-/animations-7.1.0.tgz#3f03175217a45b72e53310d9ab35e69802ad9555"
+  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-7.1.0.tgz#3f03175217a45b72e53310d9ab35e69802ad9555"
   integrity sha1-PwMXUhekW3LlMxDZqzXmmAKtlVU=
   dependencies:
     tslib "^1.9.0"
 
 "@angular/cli@~7.0.6":
   version "7.0.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/cli/-/cli-7.0.6.tgz#f97bc9ca92785c7ce2e5f20819c48265a1da5b53"
+  resolved "https://registry.yarnpkg.com/@angular/cli/-/cli-7.0.6.tgz#f97bc9ca92785c7ce2e5f20819c48265a1da5b53"
   integrity sha1-+XvJypJ4XHzi5fIIGcSCZaHaW1M=
   dependencies:
     "@angular-devkit/architect" "0.10.6"
@@ -156,14 +156,14 @@
 
 "@angular/common@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/common/-/common-7.1.0.tgz#89b0a34fd8f2a323704369551be4ac7491dda0b7"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-7.1.0.tgz#89b0a34fd8f2a323704369551be4ac7491dda0b7"
   integrity sha1-ibCjT9jyoyNwQ2lVG+SsdJHdoLc=
   dependencies:
     tslib "^1.9.0"
 
 "@angular/compiler-cli@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/compiler-cli/-/compiler-cli-7.1.0.tgz#b02b2f94b9510caadc2b16bf1f97aa41d21a3ce2"
+  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-7.1.0.tgz#b02b2f94b9510caadc2b16bf1f97aa41d21a3ce2"
   integrity sha1-sCsvlLlRDKrcKxa/H5eqQdIaPOI=
   dependencies:
     canonical-path "1.0.0"
@@ -180,71 +180,71 @@
 
 "@angular/compiler@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/compiler/-/compiler-7.1.0.tgz#3455eeb575d0b9b68a099b5781d3cce78468146a"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-7.1.0.tgz#3455eeb575d0b9b68a099b5781d3cce78468146a"
   integrity sha1-NFXutXXQubaKCZtXgdPM54RoFGo=
   dependencies:
     tslib "^1.9.0"
 
 "@angular/core@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/core/-/core-7.1.0.tgz#a55fbbc28b2c9da767121f433733683780266eb3"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-7.1.0.tgz#a55fbbc28b2c9da767121f433733683780266eb3"
   integrity sha1-pV+7wossnadnEh9DNzNoN4AmbrM=
   dependencies:
     tslib "^1.9.0"
 
 "@angular/forms@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/forms/-/forms-7.1.0.tgz#8e6ab4412c5b6ad1d3b2f0be6612d601104dcf78"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-7.1.0.tgz#8e6ab4412c5b6ad1d3b2f0be6612d601104dcf78"
   integrity sha1-jmq0QSxbatHTsvC+ZhLWARBNz3g=
   dependencies:
     tslib "^1.9.0"
 
 "@angular/http@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/http/-/http-7.1.0.tgz#9243d6a0fae5b5fd12aa9408e3dbaffad54deb9b"
+  resolved "https://registry.yarnpkg.com/@angular/http/-/http-7.1.0.tgz#9243d6a0fae5b5fd12aa9408e3dbaffad54deb9b"
   integrity sha1-kkPWoPrltf0SqpQI49uv+tVN65s=
   dependencies:
     tslib "^1.9.0"
 
 "@angular/language-service@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/language-service/-/language-service-7.1.0.tgz#148e2f9714a6f4bd9d00a7b532b60c21cd947651"
+  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-7.1.0.tgz#148e2f9714a6f4bd9d00a7b532b60c21cd947651"
   integrity sha1-FI4vlxSm9L2dAKe1MrYMIc2UdlE=
 
 "@angular/platform-browser-dynamic@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/platform-browser-dynamic/-/platform-browser-dynamic-7.1.0.tgz#c7d07f6b1c08fa12c54b4e310da930da613c7e6e"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-7.1.0.tgz#c7d07f6b1c08fa12c54b4e310da930da613c7e6e"
   integrity sha1-x9B/axwI+hLFS04xDakw2mE8fm4=
   dependencies:
     tslib "^1.9.0"
 
 "@angular/platform-browser@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/platform-browser/-/platform-browser-7.1.0.tgz#0d40fed536a08d66ea580f6c4d2976310d559111"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-7.1.0.tgz#0d40fed536a08d66ea580f6c4d2976310d559111"
   integrity sha1-DUD+1TagjWbqWA9sTSl2MQ1VkRE=
   dependencies:
     tslib "^1.9.0"
 
 "@angular/router@^7.1.0":
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@angular/router/-/router-7.1.0.tgz#19b66e127065dfc2106793e81d660790422e73b0"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-7.1.0.tgz#19b66e127065dfc2106793e81d660790422e73b0"
   integrity sha1-GbZuEnBl38IQZ5PoHWYHkEIuc7A=
   dependencies:
     tslib "^1.9.0"
 
 "@ngrx/effects@^7.0.0":
   version "7.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@ngrx/effects/-/effects-7.0.0.tgz#57ea3a42ed970b748e78292e54fe02a768027b05"
+  resolved "https://registry.yarnpkg.com/@ngrx/effects/-/effects-7.0.0.tgz#57ea3a42ed970b748e78292e54fe02a768027b05"
   integrity sha1-V+o6Qu2XC3SOeCkuVP4Cp2gCewU=
 
 "@ngrx/router-store@^7.0.0":
   version "7.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@ngrx/router-store/-/router-store-7.0.0.tgz#a273fc3288a2b256b07e9014e7b87d6ebfa3641d"
+  resolved "https://registry.yarnpkg.com/@ngrx/router-store/-/router-store-7.0.0.tgz#a273fc3288a2b256b07e9014e7b87d6ebfa3641d"
   integrity sha1-onP8MoiislawfpAU57h9br+jZB0=
 
 "@ngrx/store@^7.0.0":
   version "7.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@ngrx/store/-/store-7.0.0.tgz#5472000197c2a388b09afceb2d062cb37b03d334"
+  resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-7.0.0.tgz#5472000197c2a388b09afceb2d062cb37b03d334"
   integrity sha1-VHIAAZfCo4iwmvzrLQYss3sD0zQ=
 
 "@ngtools/json-schema@^1.1.0":
@@ -253,7 +253,7 @@
 
 "@ngtools/webpack@7.1.4":
   version "7.1.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@ngtools/webpack/-/webpack-7.1.4.tgz#632ece6ed8e05fe743554cc935be36a653376f01"
+  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-7.1.4.tgz#632ece6ed8e05fe743554cc935be36a653376f01"
   integrity sha1-Yy7ObtjgX+dDVUzJNb42plM3bwE=
   dependencies:
     "@angular-devkit/core" "7.1.4"
@@ -264,7 +264,7 @@
 
 "@schematics/angular@7.0.6":
   version "7.0.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@schematics/angular/-/angular-7.0.6.tgz#1173c201d118cf38d1afdb382e9a916e4b540a17"
+  resolved "https://registry.yarnpkg.com/@schematics/angular/-/angular-7.0.6.tgz#1173c201d118cf38d1afdb382e9a916e4b540a17"
   integrity sha1-EXPCAdEYzzjRr9s4LpqRbktUChc=
   dependencies:
     "@angular-devkit/core" "7.0.6"
@@ -273,7 +273,7 @@
 
 "@schematics/update@0.10.6":
   version "0.10.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@schematics/update/-/update-0.10.6.tgz#616e6c321cd51468eacda7fc8a0306b37f8b4ca2"
+  resolved "https://registry.yarnpkg.com/@schematics/update/-/update-0.10.6.tgz#616e6c321cd51468eacda7fc8a0306b37f8b4ca2"
   integrity sha1-YW5sMhzVFGjqzaf8igMGs3+LTKI=
   dependencies:
     "@angular-devkit/core" "7.0.6"
@@ -319,7 +319,7 @@
 
 "@webassemblyjs/ast@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/ast/-/ast-1.7.10.tgz#0cfc61d61286240b72fc522cb755613699eea40a"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.7.10.tgz#0cfc61d61286240b72fc522cb755613699eea40a"
   integrity sha1-DPxh1hKGJAty/FIst1VhNpnupAo=
   dependencies:
     "@webassemblyjs/helper-module-context" "1.7.10"
@@ -328,44 +328,44 @@
 
 "@webassemblyjs/floating-point-hex-parser@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.7.10.tgz#ee63d729c6311a85863e369a473f9983f984e4d9"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.7.10.tgz#ee63d729c6311a85863e369a473f9983f984e4d9"
   integrity sha1-7mPXKcYxGoWGPjaaRz+Zg/mE5Nk=
 
 "@webassemblyjs/helper-api-error@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/helper-api-error/-/helper-api-error-1.7.10.tgz#bfcb3bbe59775357475790a2ad7b289f09b2f198"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-api-error/-/helper-api-error-1.7.10.tgz#bfcb3bbe59775357475790a2ad7b289f09b2f198"
   integrity sha1-v8s7vll3U1dHV5CirXsonwmy8Zg=
 
 "@webassemblyjs/helper-buffer@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/helper-buffer/-/helper-buffer-1.7.10.tgz#0a8c624c67ad0b214d2e003859921a1988cb151b"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-buffer/-/helper-buffer-1.7.10.tgz#0a8c624c67ad0b214d2e003859921a1988cb151b"
   integrity sha1-CoxiTGetCyFNLgA4WZIaGYjLFRs=
 
 "@webassemblyjs/helper-code-frame@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/helper-code-frame/-/helper-code-frame-1.7.10.tgz#0ab7e22fad0241a173178c73976fc0edf50832ce"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-code-frame/-/helper-code-frame-1.7.10.tgz#0ab7e22fad0241a173178c73976fc0edf50832ce"
   integrity sha1-CrfiL60CQaFzF4xzl2/A7fUIMs4=
   dependencies:
     "@webassemblyjs/wast-printer" "1.7.10"
 
 "@webassemblyjs/helper-fsm@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/helper-fsm/-/helper-fsm-1.7.10.tgz#0915e7713fbbb735620a9d3e4fa3d7951f97ac64"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-fsm/-/helper-fsm-1.7.10.tgz#0915e7713fbbb735620a9d3e4fa3d7951f97ac64"
   integrity sha1-CRXncT+7tzViCp0+T6PXlR+XrGQ=
 
 "@webassemblyjs/helper-module-context@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/helper-module-context/-/helper-module-context-1.7.10.tgz#9beb83f72740f5ac8075313b5cac5e796510f755"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-module-context/-/helper-module-context-1.7.10.tgz#9beb83f72740f5ac8075313b5cac5e796510f755"
   integrity sha1-m+uD9ydA9ayAdTE7XKxeeWUQ91U=
 
 "@webassemblyjs/helper-wasm-bytecode@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.7.10.tgz#797b1e734bbcfdea8399669cdc58308ef1c7ffc0"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.7.10.tgz#797b1e734bbcfdea8399669cdc58308ef1c7ffc0"
   integrity sha1-eXsec0u8/eqDmWac3FgwjvHH/8A=
 
 "@webassemblyjs/helper-wasm-section@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.7.10.tgz#c0ea3703c615d7bc3e3507c3b7991c8767b2f20e"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.7.10.tgz#c0ea3703c615d7bc3e3507c3b7991c8767b2f20e"
   integrity sha1-wOo3A8YV17w+NQfDt5kch2ey8g4=
   dependencies:
     "@webassemblyjs/ast" "1.7.10"
@@ -375,26 +375,26 @@
 
 "@webassemblyjs/ieee754@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/ieee754/-/ieee754-1.7.10.tgz#62c1728b7ef0f66ef8221e2966a0afd75db430df"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/ieee754/-/ieee754-1.7.10.tgz#62c1728b7ef0f66ef8221e2966a0afd75db430df"
   integrity sha1-YsFyi37w9m74Ih4pZqCv1120MN8=
   dependencies:
     "@xtuc/ieee754" "^1.2.0"
 
 "@webassemblyjs/leb128@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/leb128/-/leb128-1.7.10.tgz#167e0bb4b06d7701585772a73fba9f4df85439f6"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/leb128/-/leb128-1.7.10.tgz#167e0bb4b06d7701585772a73fba9f4df85439f6"
   integrity sha1-Fn4LtLBtdwFYV3KnP7qfTfhUOfY=
   dependencies:
     "@xtuc/long" "4.2.1"
 
 "@webassemblyjs/utf8@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/utf8/-/utf8-1.7.10.tgz#b6728f5b6f50364abc155be029f9670e6685605a"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/utf8/-/utf8-1.7.10.tgz#b6728f5b6f50364abc155be029f9670e6685605a"
   integrity sha1-tnKPW29QNkq8FVvgKflnDmaFYFo=
 
 "@webassemblyjs/wasm-edit@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/wasm-edit/-/wasm-edit-1.7.10.tgz#83fe3140f5a58f5a30b914702be9f0e59a399092"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-edit/-/wasm-edit-1.7.10.tgz#83fe3140f5a58f5a30b914702be9f0e59a399092"
   integrity sha1-g/4xQPWlj1owuRRwK+nw5Zo5kJI=
   dependencies:
     "@webassemblyjs/ast" "1.7.10"
@@ -408,7 +408,7 @@
 
 "@webassemblyjs/wasm-gen@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/wasm-gen/-/wasm-gen-1.7.10.tgz#4de003806ae29c97ab3707782469b53299570174"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-gen/-/wasm-gen-1.7.10.tgz#4de003806ae29c97ab3707782469b53299570174"
   integrity sha1-TeADgGrinJerNwd4JGm1MplXAXQ=
   dependencies:
     "@webassemblyjs/ast" "1.7.10"
@@ -419,7 +419,7 @@
 
 "@webassemblyjs/wasm-opt@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/wasm-opt/-/wasm-opt-1.7.10.tgz#d151e31611934a556c82789fdeec41a814993c2a"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-opt/-/wasm-opt-1.7.10.tgz#d151e31611934a556c82789fdeec41a814993c2a"
   integrity sha1-0VHjFhGTSlVsgnif3uxBqBSZPCo=
   dependencies:
     "@webassemblyjs/ast" "1.7.10"
@@ -429,7 +429,7 @@
 
 "@webassemblyjs/wasm-parser@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/wasm-parser/-/wasm-parser-1.7.10.tgz#0367be7bf8f09e3e6abc95f8e483b9206487ec65"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-parser/-/wasm-parser-1.7.10.tgz#0367be7bf8f09e3e6abc95f8e483b9206487ec65"
   integrity sha1-A2e+e/jwnj5qvJX45IO5IGSH7GU=
   dependencies:
     "@webassemblyjs/ast" "1.7.10"
@@ -441,7 +441,7 @@
 
 "@webassemblyjs/wast-parser@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/wast-parser/-/wast-parser-1.7.10.tgz#058f598b52f730b23fc874d4775b6286b6247264"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wast-parser/-/wast-parser-1.7.10.tgz#058f598b52f730b23fc874d4775b6286b6247264"
   integrity sha1-BY9Zi1L3MLI/yHTUd1tihrYkcmQ=
   dependencies:
     "@webassemblyjs/ast" "1.7.10"
@@ -453,7 +453,7 @@
 
 "@webassemblyjs/wast-printer@1.7.10":
   version "1.7.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@webassemblyjs/wast-printer/-/wast-printer-1.7.10.tgz#d817909d2450ae96c66b7607624d98a33b84223b"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wast-printer/-/wast-printer-1.7.10.tgz#d817909d2450ae96c66b7607624d98a33b84223b"
   integrity sha1-2BeQnSRQrpbGa3YHYk2YozuEIjs=
   dependencies:
     "@webassemblyjs/ast" "1.7.10"
@@ -462,12 +462,12 @@
 
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@xtuc/ieee754/-/ieee754-1.2.0.tgz#eef014a3145ae477a1cbc00cd1e552336dceb790"
+  resolved "https://registry.yarnpkg.com/@xtuc/ieee754/-/ieee754-1.2.0.tgz#eef014a3145ae477a1cbc00cd1e552336dceb790"
   integrity sha1-7vAUoxRa5Hehy8AM0eVSM23Ot5A=
 
 "@xtuc/long@4.2.1":
   version "4.2.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/@xtuc/long/-/long-4.2.1.tgz#5c85d662f76fa1d34575766c5dcd6615abcd30d8"
+  resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.1.tgz#5c85d662f76fa1d34575766c5dcd6615abcd30d8"
   integrity sha1-XIXWYvdvodNFdXZsXc1mFavNMNg=
 
 abbrev@1:
@@ -504,7 +504,7 @@ acorn@^5.0.0:
 
 acorn@^5.6.2:
   version "5.7.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
   integrity sha1-Z6ojG/iBKXS4UjWpZ3Hra9B+onk=
 
 adm-zip@0.4.4:
@@ -527,7 +527,7 @@ agent-base@^4.1.0:
 
 ajv-errors@^1.0.0:
   version "1.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ajv-errors/-/ajv-errors-1.0.0.tgz#ecf021fa108fd17dfb5e6b383f2dd233e31ffc59"
+  resolved "https://registry.yarnpkg.com/ajv-errors/-/ajv-errors-1.0.0.tgz#ecf021fa108fd17dfb5e6b383f2dd233e31ffc59"
   integrity sha1-7PAh+hCP0X37Xms4Py3SM+Mf/Fk=
 
 ajv-keywords@^3.1.0:
@@ -536,7 +536,7 @@ ajv-keywords@^3.1.0:
 
 ajv@6.5.3:
   version "6.5.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ajv/-/ajv-6.5.3.tgz#71a569d189ecf4f4f321224fecb166f071dd90f9"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.5.3.tgz#71a569d189ecf4f4f321224fecb166f071dd90f9"
   integrity sha1-caVp0Yns9PTzISJP7LFm8HHdkPk=
   dependencies:
     fast-deep-equal "^2.0.1"
@@ -564,7 +564,7 @@ ajv@^6.1.0:
 
 ajv@^6.5.5:
   version "6.5.5"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ajv/-/ajv-6.5.5.tgz#cf97cdade71c6399a92c6d6c4177381291b781a1"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.5.5.tgz#cf97cdade71c6399a92c6d6c4177381291b781a1"
   integrity sha1-z5fNreccY5mpLG1sQXc4EpG3gaE=
   dependencies:
     fast-deep-equal "^2.0.1"
@@ -592,12 +592,12 @@ ansi-align@^2.0.0:
 
 ansi-colors@^3.0.0:
   version "3.2.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ansi-colors/-/ansi-colors-3.2.1.tgz#9638047e4213f3428a11944a7d4b31cba0a3ff95"
+  resolved "https://registry.yarnpkg.com/ansi-colors/-/ansi-colors-3.2.1.tgz#9638047e4213f3428a11944a7d4b31cba0a3ff95"
   integrity sha1-ljgEfkIT80KKEZRKfUsxy6Cj/5U=
 
 ansi-escapes@^3.0.0:
   version "3.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ansi-escapes/-/ansi-escapes-3.1.0.tgz#f73207bb81207d75fd6c83f125af26eea378ca30"
+  resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-3.1.0.tgz#f73207bb81207d75fd6c83f125af26eea378ca30"
   integrity sha1-9zIHu4EgfXX9bIPxJa8m7qN4yjA=
 
 ansi-html@0.0.7:
@@ -638,7 +638,7 @@ anymatch@^2.0.0:
 
 app-root-path@^2.1.0:
   version "2.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/app-root-path/-/app-root-path-2.1.0.tgz#98bf6599327ecea199309866e8140368fd2e646a"
+  resolved "https://registry.yarnpkg.com/app-root-path/-/app-root-path-2.1.0.tgz#98bf6599327ecea199309866e8140368fd2e646a"
   integrity sha1-mL9lmTJ+zqGZMJhm6BQDaP0uZGo=
 
 append-transform@^0.4.0:
@@ -768,7 +768,7 @@ async@1.x, async@^1.4.0, async@^1.5.2:
 
 async@^2.1.4, async@^2.5.0:
   version "2.6.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/async/-/async-2.6.1.tgz#b245a23ca71930044ec53fa46aa00a3e87c6a610"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.1.tgz#b245a23ca71930044ec53fa46aa00a3e87c6a610"
   integrity sha1-skWiPKcZMAROxT+kaqAKPofGphA=
   dependencies:
     lodash "^4.17.10"
@@ -783,7 +783,7 @@ atob@^2.1.1:
 
 autoprefixer@9.3.1, autoprefixer@^9.0.0:
   version "9.3.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/autoprefixer/-/autoprefixer-9.3.1.tgz#71b622174de2b783d5fd99f9ad617b7a3c78443e"
+  resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.3.1.tgz#71b622174de2b783d5fd99f9ad617b7a3c78443e"
   integrity sha1-cbYiF03it4PV/Zn5rWF7ejx4RD4=
   dependencies:
     browserslist "^4.3.3"
@@ -803,7 +803,7 @@ aws4@^1.6.0:
 
 aws4@^1.8.0:
   version "1.8.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/aws4/-/aws4-1.8.0.tgz#f0e003d9ca9e7f59c7a508945d7b2ef9a04a542f"
+  resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.8.0.tgz#f0e003d9ca9e7f59c7a508945d7b2ef9a04a542f"
   integrity sha1-8OAD2cqef1nHpQiUXXsu+aBKVC8=
 
 babel-code-frame@^6.22.0, babel-code-frame@^6.26.0:
@@ -1104,7 +1104,7 @@ browserify-zlib@^0.2.0:
 
 browserslist@^4.0.0, browserslist@^4.3.3:
   version "4.3.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/browserslist/-/browserslist-4.3.4.tgz#4477b737db6a1b07077275b24791e680d4300425"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.3.4.tgz#4477b737db6a1b07077275b24791e680d4300425"
   integrity sha1-RHe3N9tqGwcHcnWyR5HmgNQwBCU=
   dependencies:
     caniuse-lite "^1.0.30000899"
@@ -1171,7 +1171,7 @@ cacache@^10.0.4:
 
 cacache@^11.0.2:
   version "11.3.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/cacache/-/cacache-11.3.1.tgz#d09d25f6c4aca7a6d305d141ae332613aa1d515f"
+  resolved "https://registry.yarnpkg.com/cacache/-/cacache-11.3.1.tgz#d09d25f6c4aca7a6d305d141ae332613aa1d515f"
   integrity sha1-0J0l9sSsp6bTBdFBrjMmE6odUV8=
   dependencies:
     bluebird "^3.5.1"
@@ -1232,12 +1232,12 @@ camelcase@^4.0.0, camelcase@^4.1.0:
 
 caniuse-lite@^1.0.30000898, caniuse-lite@^1.0.30000899:
   version "1.0.30000910"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/caniuse-lite/-/caniuse-lite-1.0.30000910.tgz#755d5181d4b006e5a2b59b1ffa05d0a0470039f5"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000910.tgz#755d5181d4b006e5a2b59b1ffa05d0a0470039f5"
   integrity sha1-dV1RgdSwBuWitZsf+gXQoEcAOfU=
 
 canonical-path@1.0.0:
   version "1.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/canonical-path/-/canonical-path-1.0.0.tgz#fcb470c23958def85081856be7a86e904f180d1d"
+  resolved "https://registry.yarnpkg.com/canonical-path/-/canonical-path-1.0.0.tgz#fcb470c23958def85081856be7a86e904f180d1d"
   integrity sha1-/LRwwjlY3vhQgYVr56hukE8YDR0=
 
 capture-stack-trace@^1.0.0:
@@ -1275,12 +1275,12 @@ chalk@^2.0.0, chalk@^2.0.1, chalk@^2.3.0, chalk@^2.3.1, chalk@^2.4.1:
 
 chardet@^0.7.0:
   version "0.7.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/chardet/-/chardet-0.7.0.tgz#90094849f0937f2eedc2425d0d28a9e5f0cbad9e"
+  resolved "https://registry.yarnpkg.com/chardet/-/chardet-0.7.0.tgz#90094849f0937f2eedc2425d0d28a9e5f0cbad9e"
   integrity sha1-kAlISfCTfy7twkJdDSip5fDLrZ4=
 
 chokidar@2.0.4:
   version "2.0.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/chokidar/-/chokidar-2.0.4.tgz#356ff4e2b0e8e43e322d18a372460bbcf3accd26"
+  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-2.0.4.tgz#356ff4e2b0e8e43e322d18a372460bbcf3accd26"
   integrity sha1-NW/04rDo5D4yLRijckYLvPOszSY=
   dependencies:
     anymatch "^2.0.0"
@@ -1337,7 +1337,7 @@ chownr@^1.0.1:
 
 chrome-trace-event@^1.0.0:
   version "1.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/chrome-trace-event/-/chrome-trace-event-1.0.0.tgz#45a91bd2c20c9411f0963b5aaeb9a1b95e09cc48"
+  resolved "https://registry.yarnpkg.com/chrome-trace-event/-/chrome-trace-event-1.0.0.tgz#45a91bd2c20c9411f0963b5aaeb9a1b95e09cc48"
   integrity sha1-Rakb0sIMlBHwljtarrmhuV4JzEg=
   dependencies:
     tslib "^1.9.0"
@@ -1355,7 +1355,7 @@ cipher-base@^1.0.0, cipher-base@^1.0.1, cipher-base@^1.0.3:
 
 circular-dependency-plugin@5.0.2:
   version "5.0.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/circular-dependency-plugin/-/circular-dependency-plugin-5.0.2.tgz#da168c0b37e7b43563fb9f912c1c007c213389ef"
+  resolved "https://registry.yarnpkg.com/circular-dependency-plugin/-/circular-dependency-plugin-5.0.2.tgz#da168c0b37e7b43563fb9f912c1c007c213389ef"
   integrity sha1-2haMCzfntDVj+5+RLBwAfCEzie8=
 
 class-utils@^0.3.5:
@@ -1369,7 +1369,7 @@ class-utils@^0.3.5:
 
 clean-css@4.2.1:
   version "4.2.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/clean-css/-/clean-css-4.2.1.tgz#2d411ef76b8569b6d0c84068dabe85b0aa5e5c17"
+  resolved "https://registry.yarnpkg.com/clean-css/-/clean-css-4.2.1.tgz#2d411ef76b8569b6d0c84068dabe85b0aa5e5c17"
   integrity sha1-LUEe92uFabbQyEBo2r6FsKpeXBc=
   dependencies:
     source-map "~0.6.0"
@@ -1386,14 +1386,14 @@ cli-boxes@^1.0.0:
 
 cli-cursor@^2.1.0:
   version "2.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/cli-cursor/-/cli-cursor-2.1.0.tgz#b35dac376479facc3e94747d41d0d0f5238ffcb5"
+  resolved "https://registry.yarnpkg.com/cli-cursor/-/cli-cursor-2.1.0.tgz#b35dac376479facc3e94747d41d0d0f5238ffcb5"
   integrity sha1-s12sN2R5+sw+lHR9QdDQ9SOP/LU=
   dependencies:
     restore-cursor "^2.0.0"
 
 cli-width@^2.0.0:
   version "2.2.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/cli-width/-/cli-width-2.2.0.tgz#ff19ede8a9a5e579324147b0c11f0fbcbabed639"
+  resolved "https://registry.yarnpkg.com/cli-width/-/cli-width-2.2.0.tgz#ff19ede8a9a5e579324147b0c11f0fbcbabed639"
   integrity sha1-/xnt6Kml5XkyQUewwR8PvLq+1jk=
 
 cliui@^2.1.0:
@@ -1435,7 +1435,7 @@ clone@^2.1.1:
 
 clone@^2.1.2:
   version "2.1.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/clone/-/clone-2.1.2.tgz#1b7f4b9f591f1e8f83670401600345a02887435f"
+  resolved "https://registry.yarnpkg.com/clone/-/clone-2.1.2.tgz#1b7f4b9f591f1e8f83670401600345a02887435f"
   integrity sha1-G39Ln1kfHo+DZwQBYANFoCiHQ18=
 
 co@^4.6.0:
@@ -1448,7 +1448,7 @@ code-point-at@^1.0.0:
 
 codelyzer@~4.5.0:
   version "4.5.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/codelyzer/-/codelyzer-4.5.0.tgz#a65ddeeeca2894653253a89bfa229118ff9f59b1"
+  resolved "https://registry.yarnpkg.com/codelyzer/-/codelyzer-4.5.0.tgz#a65ddeeeca2894653253a89bfa229118ff9f59b1"
   integrity sha1-pl3e7soolGUyU6ib+iKRGP+fWbE=
   dependencies:
     app-root-path "^2.1.0"
@@ -1497,7 +1497,7 @@ combined-stream@1.0.6, combined-stream@~1.0.5:
 
 combined-stream@^1.0.6, combined-stream@~1.0.6:
   version "1.0.7"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/combined-stream/-/combined-stream-1.0.7.tgz#2d1d24317afb8abe95d6d2c0b07b57813539d828"
+  resolved "https://registry.yarnpkg.com/combined-stream/-/combined-stream-1.0.7.tgz#2d1d24317afb8abe95d6d2c0b07b57813539d828"
   integrity sha1-LR0kMXr7ir6V1tLAsHtXgTU52Cg=
   dependencies:
     delayed-stream "~1.0.0"
@@ -1512,7 +1512,7 @@ commander@~2.13.0:
 
 commander@~2.17.1:
   version "2.17.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
   integrity sha1-vXerfebelCBc6sxy8XFtKfIKd78=
 
 commondir@^1.0.1:
@@ -1622,7 +1622,7 @@ convert-source-map@^1.5.0:
 
 convert-source-map@^1.5.1:
   version "1.6.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/convert-source-map/-/convert-source-map-1.6.0.tgz#51b537a8c43e0f04dec1993bffcdd504e758ac20"
+  resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.6.0.tgz#51b537a8c43e0f04dec1993bffcdd504e758ac20"
   integrity sha1-UbU3qMQ+DwTewZk7/83VBOdYrCA=
   dependencies:
     safe-buffer "~5.1.1"
@@ -1652,7 +1652,7 @@ copy-descriptor@^0.1.0:
 
 copy-webpack-plugin@4.5.4:
   version "4.5.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/copy-webpack-plugin/-/copy-webpack-plugin-4.5.4.tgz#f2b2782b3cd5225535c3dc166a80067e7d940f27"
+  resolved "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-4.5.4.tgz#f2b2782b3cd5225535c3dc166a80067e7d940f27"
   integrity sha1-8rJ4KzzVIlU1w9wWaoAGfn2UDyc=
   dependencies:
     cacache "^10.0.4"
@@ -1666,7 +1666,7 @@ copy-webpack-plugin@4.5.4:
 
 core-js@^2.2.0, core-js@^2.4.0, core-js@^2.5.7:
   version "2.5.7"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/core-js/-/core-js-2.5.7.tgz#f972608ff0cead68b841a16a932d0b183791814e"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.5.7.tgz#f972608ff0cead68b841a16a932d0b183791814e"
   integrity sha1-+XJgj/DOrWi4QaFqky0LGDeRgU4=
 
 core-js@~2.3.0:
@@ -1679,7 +1679,7 @@ core-util-is@1.0.2, core-util-is@~1.0.0:
 
 cosmiconfig@^4.0.0:
   version "4.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/cosmiconfig/-/cosmiconfig-4.0.0.tgz#760391549580bbd2df1e562bc177b13c290972dc"
+  resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-4.0.0.tgz#760391549580bbd2df1e562bc177b13c290972dc"
   integrity sha1-dgORVJWAu9LfHlYrwXexPCkJctw=
   dependencies:
     is-directory "^0.3.1"
@@ -1738,7 +1738,7 @@ cross-spawn@^5.0.1:
 
 cross-spawn@^6.0.0:
   version "6.0.5"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/cross-spawn/-/cross-spawn-6.0.5.tgz#4a5ec7c64dfae22c3a14124dbacdee846d80cbc4"
+  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-6.0.5.tgz#4a5ec7c64dfae22c3a14124dbacdee846d80cbc4"
   integrity sha1-Sl7Hxk364iw6FBJNus3uhG2Ay8Q=
   dependencies:
     nice-try "^1.0.4"
@@ -1843,7 +1843,7 @@ debug@2.6.9, debug@^2.1.2, debug@^2.2.0, debug@^2.3.3, debug@^2.6.8:
 
 debug@^3.2.5:
   version "3.2.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
   integrity sha1-6D0X3hbYp++3cX7b5fsQE17uYps=
   dependencies:
     ms "^2.1.1"
@@ -1854,7 +1854,7 @@ decamelize@^1.0.0, decamelize@^1.1.1, decamelize@^1.1.2:
 
 decamelize@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/decamelize/-/decamelize-2.0.0.tgz#656d7bbc8094c4c788ea53c5840908c9c7d063c7"
+  resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-2.0.0.tgz#656d7bbc8094c4c788ea53c5840908c9c7d063c7"
   integrity sha1-ZW17vICUxMeI6lPFhAkIycfQY8c=
   dependencies:
     xregexp "4.0.0"
@@ -1877,7 +1877,7 @@ deep-is@~0.1.3:
 
 default-gateway@^2.6.0:
   version "2.7.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/default-gateway/-/default-gateway-2.7.2.tgz#b7ef339e5e024b045467af403d50348db4642d0f"
+  resolved "https://registry.yarnpkg.com/default-gateway/-/default-gateway-2.7.2.tgz#b7ef339e5e024b045467af403d50348db4642d0f"
   integrity sha1-t+8znl4CSwRUZ69APVA0jbRkLQ8=
   dependencies:
     execa "^0.10.0"
@@ -1949,7 +1949,7 @@ depd@~1.1.1, depd@~1.1.2:
 
 dependency-graph@^0.7.2:
   version "0.7.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/dependency-graph/-/dependency-graph-0.7.2.tgz#91db9de6eb72699209d88aea4c1fd5221cac1c49"
+  resolved "https://registry.yarnpkg.com/dependency-graph/-/dependency-graph-0.7.2.tgz#91db9de6eb72699209d88aea4c1fd5221cac1c49"
   integrity sha1-kdud5utyaZIJ2IrqTB/VIhysHEk=
 
 des.js@^1.0.0:
@@ -2061,7 +2061,7 @@ ee-first@1.1.1:
 
 electron-to-chromium@^1.3.82:
   version "1.3.84"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/electron-to-chromium/-/electron-to-chromium-1.3.84.tgz#2e55df59e818f150a9f61b53471ebf4f0feecc65"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.84.tgz#2e55df59e818f150a9f61b53471ebf4f0feecc65"
   integrity sha1-LlXfWegY8VCp9htTRx6/Tw/uzGU=
 
 elliptic@^6.0.0:
@@ -2131,7 +2131,7 @@ engine.io@1.8.3:
 
 enhanced-resolve@4.1.0, enhanced-resolve@^4.1.0:
   version "4.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/enhanced-resolve/-/enhanced-resolve-4.1.0.tgz#41c7e0bfdfe74ac1ffe1e57ad6a5c6c9f3742a7f"
+  resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-4.1.0.tgz#41c7e0bfdfe74ac1ffe1e57ad6a5c6c9f3742a7f"
   integrity sha1-Qcfgv9/nSsH/4eV61qXGyfN0Kn8=
   dependencies:
     graceful-fs "^4.1.2"
@@ -2189,7 +2189,7 @@ escodegen@1.8.x:
 
 eslint-scope@^4.0.0:
   version "4.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/eslint-scope/-/eslint-scope-4.0.0.tgz#50bf3071e9338bcdc43331794a0cb533f0136172"
+  resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-4.0.0.tgz#50bf3071e9338bcdc43331794a0cb533f0136172"
   integrity sha1-UL8wcekzi83EMzF5Sgy1M/ATYXI=
   dependencies:
     esrecurse "^4.1.0"
@@ -2239,7 +2239,7 @@ events@^1.0.0:
 
 eventsource@^1.0.7:
   version "1.0.7"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/eventsource/-/eventsource-1.0.7.tgz#8fbc72c93fcd34088090bc0a4e64f4b5cee6d8d0"
+  resolved "https://registry.yarnpkg.com/eventsource/-/eventsource-1.0.7.tgz#8fbc72c93fcd34088090bc0a4e64f4b5cee6d8d0"
   integrity sha1-j7xyyT/NNAiAkLwKTmT0tc7m2NA=
   dependencies:
     original "^1.0.0"
@@ -2253,7 +2253,7 @@ evp_bytestokey@^1.0.0, evp_bytestokey@^1.0.3:
 
 execa@^0.10.0:
   version "0.10.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/execa/-/execa-0.10.0.tgz#ff456a8f53f90f8eccc71a96d11bdfc7f082cb50"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-0.10.0.tgz#ff456a8f53f90f8eccc71a96d11bdfc7f082cb50"
   integrity sha1-/0Vqj1P5D47MxxqW0Rvfx/CCy1A=
   dependencies:
     cross-spawn "^6.0.0"
@@ -2373,12 +2373,12 @@ extend@^3.0.0, extend@~3.0.1:
 
 extend@~3.0.2:
   version "3.0.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
+  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
   integrity sha1-+LETa0Bx+9jrFAr/hYsQGewpFfo=
 
 external-editor@^3.0.0:
   version "3.0.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/external-editor/-/external-editor-3.0.3.tgz#5866db29a97826dbe4bf3afd24070ead9ea43a27"
+  resolved "https://registry.yarnpkg.com/external-editor/-/external-editor-3.0.3.tgz#5866db29a97826dbe4bf3afd24070ead9ea43a27"
   integrity sha1-WGbbKal4Jtvkvzr9JAcOrZ6kOic=
   dependencies:
     chardet "^0.7.0"
@@ -2440,26 +2440,26 @@ faye-websocket@^0.10.0:
 
 faye-websocket@~0.11.1:
   version "0.11.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/faye-websocket/-/faye-websocket-0.11.1.tgz#f0efe18c4f56e4f40afc7e06c719fd5ee6188f38"
+  resolved "https://registry.yarnpkg.com/faye-websocket/-/faye-websocket-0.11.1.tgz#f0efe18c4f56e4f40afc7e06c719fd5ee6188f38"
   integrity sha1-8O/hjE9W5PQK/H4Gxxn9XuYYjzg=
   dependencies:
     websocket-driver ">=0.5.1"
 
 figgy-pudding@^3.1.0, figgy-pudding@^3.5.1:
   version "3.5.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/figgy-pudding/-/figgy-pudding-3.5.1.tgz#862470112901c727a0e495a80744bd5baa1d6790"
+  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.1.tgz#862470112901c727a0e495a80744bd5baa1d6790"
   integrity sha1-hiRwESkBxyeg5JWoB0S9W6odZ5A=
 
 figures@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/figures/-/figures-2.0.0.tgz#3ab1a2d2a62c8bfb431a0c94cb797a2fce27c962"
+  resolved "https://registry.yarnpkg.com/figures/-/figures-2.0.0.tgz#3ab1a2d2a62c8bfb431a0c94cb797a2fce27c962"
   integrity sha1-OrGi0qYsi/tDGgyUy3l6L84nyWI=
   dependencies:
     escape-string-regexp "^1.0.5"
 
 file-loader@2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/file-loader/-/file-loader-2.0.0.tgz#39749c82f020b9e85901dcff98e8004e6401cfde"
+  resolved "https://registry.yarnpkg.com/file-loader/-/file-loader-2.0.0.tgz#39749c82f020b9e85901dcff98e8004e6401cfde"
   integrity sha1-OXScgvAguehZAdz/mOgATmQBz94=
   dependencies:
     loader-utils "^1.0.2"
@@ -2529,7 +2529,7 @@ find-cache-dir@^1.0.0:
 
 find-cache-dir@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/find-cache-dir/-/find-cache-dir-2.0.0.tgz#4c1faed59f45184530fb9d7fa123a4d04a98472d"
+  resolved "https://registry.yarnpkg.com/find-cache-dir/-/find-cache-dir-2.0.0.tgz#4c1faed59f45184530fb9d7fa123a4d04a98472d"
   integrity sha1-TB+u1Z9FGEUw+51/oSOk0EqYRy0=
   dependencies:
     commondir "^1.0.1"
@@ -2555,7 +2555,7 @@ find-up@^2.0.0, find-up@^2.1.0:
 
 find-up@^3.0.0:
   version "3.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/find-up/-/find-up-3.0.0.tgz#49169f1d7993430646da61ecc5ae355c21c97b73"
+  resolved "https://registry.yarnpkg.com/find-up/-/find-up-3.0.0.tgz#49169f1d7993430646da61ecc5ae355c21c97b73"
   integrity sha1-SRafHXmTQwZG2mHsxa41XCHJe3M=
   dependencies:
     locate-path "^3.0.0"
@@ -2607,7 +2607,7 @@ form-data@~2.3.1:
 
 form-data@~2.3.2:
   version "2.3.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/form-data/-/form-data-2.3.3.tgz#dcce52c05f644f298c6a7ab936bd724ceffbf3a6"
+  resolved "https://registry.yarnpkg.com/form-data/-/form-data-2.3.3.tgz#dcce52c05f644f298c6a7ab936bd724ceffbf3a6"
   integrity sha1-3M5SwF9kTymManq5Nr1yTO/786Y=
   dependencies:
     asynckit "^0.4.0"
@@ -2643,7 +2643,7 @@ fs-access@^1.0.0:
 
 fs-extra@^7.0.0:
   version "7.0.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/fs-extra/-/fs-extra-7.0.1.tgz#4f189c44aa123b895f722804f55ea23eadc348e9"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-7.0.1.tgz#4f189c44aa123b895f722804f55ea23eadc348e9"
   integrity sha1-TxicRKoSO4lfcigE9V6iPq3DSOk=
   dependencies:
     graceful-fs "^4.1.2"
@@ -2759,7 +2759,7 @@ glob@7.0.x:
 
 glob@7.1.3:
   version "7.1.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/glob/-/glob-7.1.3.tgz#3960832d3f1574108342dafd3a67b332c0969df1"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-7.1.3.tgz#3960832d3f1574108342dafd3a67b332c0969df1"
   integrity sha1-OWCDLT8VdBCDQtr9OmezMsCWnfE=
   dependencies:
     fs.realpath "^1.0.0"
@@ -2897,7 +2897,7 @@ har-validator@~5.0.3:
 
 har-validator@~5.1.0:
   version "5.1.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/har-validator/-/har-validator-5.1.3.tgz#1ef89ebd3e4996557675eed9893110dc350fa080"
+  resolved "https://registry.yarnpkg.com/har-validator/-/har-validator-5.1.3.tgz#1ef89ebd3e4996557675eed9893110dc350fa080"
   integrity sha1-HvievT5JllV2de7ZiTEQ3DUPoIA=
   dependencies:
     ajv "^6.5.5"
@@ -3071,7 +3071,7 @@ iconv-lite@0.4.23, iconv-lite@^0.4.4:
 
 iconv-lite@^0.4.24:
   version "0.4.24"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
+  resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
   integrity sha1-ICK0sl+93CHS9SSXSkdKr+czkIs=
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
@@ -3104,14 +3104,14 @@ immediate@~3.0.5:
 
 import-cwd@^2.0.0:
   version "2.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/import-cwd/-/import-cwd-2.1.0.tgz#aa6cf36e722761285cb371ec6519f53e2435b0a9"
+  resolved "https://registry.yarnpkg.com/import-cwd/-/import-cwd-2.1.0.tgz#aa6cf36e722761285cb371ec6519f53e2435b0a9"
   integrity sha1-qmzzbnInYShcs3HsZRn1PiQ1sKk=
   dependencies:
     import-from "^2.1.0"
 
 import-from@^2.1.0:
   version "2.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/import-from/-/import-from-2.1.0.tgz#335db7f2a7affd53aaa471d4b8021dee36b7f3b1"
+  resolved "https://registry.yarnpkg.com/import-from/-/import-from-2.1.0.tgz#335db7f2a7affd53aaa471d4b8021dee36b7f3b1"
   integrity sha1-M1238qev/VOqpHHUuAId7ja387E=
   dependencies:
     resolve-from "^3.0.0"
@@ -3122,7 +3122,7 @@ import-lazy@^2.1.0:
 
 import-local@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/import-local/-/import-local-2.0.0.tgz#55070be38a5993cf18ef6db7e961f5bee5c5a09d"
+  resolved "https://registry.yarnpkg.com/import-local/-/import-local-2.0.0.tgz#55070be38a5993cf18ef6db7e961f5bee5c5a09d"
   integrity sha1-VQcL44pZk88Y72236WH1vuXFoJ0=
   dependencies:
     pkg-dir "^3.0.0"
@@ -3171,7 +3171,7 @@ injection-js@^2.2.1:
 
 inquirer@6.2.0:
   version "6.2.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/inquirer/-/inquirer-6.2.0.tgz#51adcd776f661369dc1e894859c2560a224abdd8"
+  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-6.2.0.tgz#51adcd776f661369dc1e894859c2560a224abdd8"
   integrity sha1-Ua3Nd29mE2ncHolIWcJWCiJKvdg=
   dependencies:
     ansi-escapes "^3.0.0"
@@ -3190,7 +3190,7 @@ inquirer@6.2.0:
 
 internal-ip@^3.0.1:
   version "3.0.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/internal-ip/-/internal-ip-3.0.1.tgz#df5c99876e1d2eb2ea2d74f520e3f669a00ece27"
+  resolved "https://registry.yarnpkg.com/internal-ip/-/internal-ip-3.0.1.tgz#df5c99876e1d2eb2ea2d74f520e3f669a00ece27"
   integrity sha1-31yZh24dLrLqLXT1IOP2aaAOzic=
   dependencies:
     default-gateway "^2.6.0"
@@ -3198,7 +3198,7 @@ internal-ip@^3.0.1:
 
 interpret@^1.0.0:
   version "1.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/interpret/-/interpret-1.1.0.tgz#7ed1b1410c6a0e0f78cf95d3b8440c63f78b8614"
+  resolved "https://registry.yarnpkg.com/interpret/-/interpret-1.1.0.tgz#7ed1b1410c6a0e0f78cf95d3b8440c63f78b8614"
   integrity sha1-ftGxQQxqDg94z5XTuEQMY/eLhhQ=
 
 invariant@^2.2.2:
@@ -3213,12 +3213,12 @@ invert-kv@^1.0.0:
 
 invert-kv@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/invert-kv/-/invert-kv-2.0.0.tgz#7393f5afa59ec9ff5f67a27620d11c226e3eec02"
+  resolved "https://registry.yarnpkg.com/invert-kv/-/invert-kv-2.0.0.tgz#7393f5afa59ec9ff5f67a27620d11c226e3eec02"
   integrity sha1-c5P1r6Weyf9fZ6J2INEcIm4+7AI=
 
 ip-regex@^2.1.0:
   version "2.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ip-regex/-/ip-regex-2.1.0.tgz#fa78bf5d2e6913c911ce9f819ee5146bb6d844e9"
+  resolved "https://registry.yarnpkg.com/ip-regex/-/ip-regex-2.1.0.tgz#fa78bf5d2e6913c911ce9f819ee5146bb6d844e9"
   integrity sha1-+ni/XS5pE8kRzp+BnuUUa7bYROk=
 
 ip@^1.1.0, ip@^1.1.5:
@@ -3231,7 +3231,7 @@ ipaddr.js@1.6.0:
 
 ipaddr.js@^1.5.2:
   version "1.8.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ipaddr.js/-/ipaddr.js-1.8.1.tgz#fa4b79fa47fd3def5e3b159825161c0a519c9427"
+  resolved "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-1.8.1.tgz#fa4b79fa47fd3def5e3b159825161c0a519c9427"
   integrity sha1-+kt5+kf9Pe9eOxWYJRYcClGclCc=
 
 is-accessor-descriptor@^0.1.6:
@@ -3443,7 +3443,7 @@ is-primitive@^2.0.0:
 
 is-promise@^2.1.0:
   version "2.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/is-promise/-/is-promise-2.1.0.tgz#79a2a9ece7f096e80f36d2b2f3bc16c1ff4bf3fa"
+  resolved "https://registry.yarnpkg.com/is-promise/-/is-promise-2.1.0.tgz#79a2a9ece7f096e80f36d2b2f3bc16c1ff4bf3fa"
   integrity sha1-eaKp7OfwlugPNtKy87wWwf9L8/o=
 
 is-redirect@^1.0.0:
@@ -3523,7 +3523,7 @@ istanbul-api@^1.3.1:
 
 istanbul-instrumenter-loader@3.0.1:
   version "3.0.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/istanbul-instrumenter-loader/-/istanbul-instrumenter-loader-3.0.1.tgz#9957bd59252b373fae5c52b7b5188e6fde2a0949"
+  resolved "https://registry.yarnpkg.com/istanbul-instrumenter-loader/-/istanbul-instrumenter-loader-3.0.1.tgz#9957bd59252b373fae5c52b7b5188e6fde2a0949"
   integrity sha1-mVe9WSUrNz+uXFK3tRiOb94qCUk=
   dependencies:
     convert-source-map "^1.5.0"
@@ -3580,7 +3580,7 @@ istanbul-reports@^1.3.0:
 
 istanbul@0.4.5:
   version "0.4.5"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/istanbul/-/istanbul-0.4.5.tgz#65c7d73d4c4da84d4f3ac310b918fb0b8033733b"
+  resolved "https://registry.yarnpkg.com/istanbul/-/istanbul-0.4.5.tgz#65c7d73d4c4da84d4f3ac310b918fb0b8033733b"
   integrity sha1-ZcfXPUxNqE1POsMQuRj7C4Azczs=
   dependencies:
     abbrev "1.0.x"
@@ -3641,7 +3641,7 @@ js-yaml@3.x, js-yaml@^3.7.0:
 
 js-yaml@^3.9.0:
   version "3.12.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/js-yaml/-/js-yaml-3.12.0.tgz#eaed656ec8344f10f527c6bfa1b6e2244de167d1"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.12.0.tgz#eaed656ec8344f10f527c6bfa1b6e2244de167d1"
   integrity sha1-6u1lbsg0TxD1J8a/obbiJE3hZ9E=
   dependencies:
     argparse "^1.0.7"
@@ -3669,7 +3669,7 @@ json-schema-traverse@^0.3.0:
 
 json-schema-traverse@^0.4.1:
   version "0.4.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/json-schema-traverse/-/json-schema-traverse-0.4.1.tgz#69f6a87d9513ab8bb8fe63bdb0979c448e684660"
+  resolved "https://registry.yarnpkg.com/json-schema-traverse/-/json-schema-traverse-0.4.1.tgz#69f6a87d9513ab8bb8fe63bdb0979c448e684660"
   integrity sha1-afaofZUTq4u4/mO9sJecRI5oRmA=
 
 json-schema@0.2.3:
@@ -3739,7 +3739,7 @@ karma-jasmine@^1.0.2, karma-jasmine@~1.1.1:
 
 karma-source-map-support@1.3.0:
   version "1.3.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/karma-source-map-support/-/karma-source-map-support-1.3.0.tgz#36dd4d8ca154b62ace95696236fae37caf0a7dde"
+  resolved "https://registry.yarnpkg.com/karma-source-map-support/-/karma-source-map-support-1.3.0.tgz#36dd4d8ca154b62ace95696236fae37caf0a7dde"
   integrity sha1-Nt1NjKFUtirOlWliNvrjfK8Kfd4=
   dependencies:
     source-map-support "^0.5.5"
@@ -3818,14 +3818,14 @@ lcid@^1.0.0:
 
 lcid@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/lcid/-/lcid-2.0.0.tgz#6ef5d2df60e52f82eb228a4c373e8d1f397253cf"
+  resolved "https://registry.yarnpkg.com/lcid/-/lcid-2.0.0.tgz#6ef5d2df60e52f82eb228a4c373e8d1f397253cf"
   integrity sha1-bvXS32DlL4LrIopMNz6NHzlyU88=
   dependencies:
     invert-kv "^2.0.0"
 
 less-loader@4.1.0:
   version "4.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/less-loader/-/less-loader-4.1.0.tgz#2c1352c5b09a4f84101490274fd51674de41363e"
+  resolved "https://registry.yarnpkg.com/less-loader/-/less-loader-4.1.0.tgz#2c1352c5b09a4f84101490274fd51674de41363e"
   integrity sha1-LBNSxbCaT4QQFJAnT9UWdN5BNj4=
   dependencies:
     clone "^2.1.1"
@@ -3834,7 +3834,7 @@ less-loader@4.1.0:
 
 less-plugin-npm-import@^2.1.0:
   version "2.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/less-plugin-npm-import/-/less-plugin-npm-import-2.1.0.tgz#823e6986c93318a98171ca858848b6bead55bf3e"
+  resolved "https://registry.yarnpkg.com/less-plugin-npm-import/-/less-plugin-npm-import-2.1.0.tgz#823e6986c93318a98171ca858848b6bead55bf3e"
   integrity sha1-gj5phskzGKmBccqFiEi2vq1Vvz4=
   dependencies:
     promise "~7.0.1"
@@ -3842,7 +3842,7 @@ less-plugin-npm-import@^2.1.0:
 
 less@3.8.1, less@^3.8.0:
   version "3.8.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/less/-/less-3.8.1.tgz#f31758598ef5a1930dd4caefa9e4340641e71e1d"
+  resolved "https://registry.yarnpkg.com/less/-/less-3.8.1.tgz#f31758598ef5a1930dd4caefa9e4340641e71e1d"
   integrity sha1-8xdYWY71oZMN1MrvqeQ0BkHnHh0=
   dependencies:
     clone "^2.1.2"
@@ -3865,7 +3865,7 @@ levn@~0.3.0:
 
 license-webpack-plugin@2.0.2:
   version "2.0.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/license-webpack-plugin/-/license-webpack-plugin-2.0.2.tgz#9d34b521cb7fca8527945310b05be6ef0248b687"
+  resolved "https://registry.yarnpkg.com/license-webpack-plugin/-/license-webpack-plugin-2.0.2.tgz#9d34b521cb7fca8527945310b05be6ef0248b687"
   integrity sha1-nTS1Ict/yoUnlFMQsFvm7wJItoc=
   dependencies:
     webpack-sources "^1.2.0"
@@ -3888,7 +3888,7 @@ load-json-file@^1.0.0:
 
 load-json-file@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/load-json-file/-/load-json-file-2.0.0.tgz#7947e42149af80d696cbf797bcaabcfe1fe29ca8"
+  resolved "https://registry.yarnpkg.com/load-json-file/-/load-json-file-2.0.0.tgz#7947e42149af80d696cbf797bcaabcfe1fe29ca8"
   integrity sha1-eUfkIUmvgNaWy/eXvKq8/h/inKg=
   dependencies:
     graceful-fs "^4.1.2"
@@ -3926,7 +3926,7 @@ locate-path@^2.0.0:
 
 locate-path@^3.0.0:
   version "3.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/locate-path/-/locate-path-3.0.0.tgz#dbec3b3ab759758071b58fe59fc41871af21400e"
+  resolved "https://registry.yarnpkg.com/locate-path/-/locate-path-3.0.0.tgz#dbec3b3ab759758071b58fe59fc41871af21400e"
   integrity sha1-2+w7OrdZdYBxtY/ln8QYca8hQA4=
   dependencies:
     p-locate "^3.0.0"
@@ -3942,7 +3942,7 @@ lodash.clonedeep@^4.3.2, lodash.clonedeep@^4.5.0:
 
 lodash.debounce@^4.0.8:
   version "4.0.8"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
+  resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
   integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
 
 lodash.mergewith@^4.6.0:
@@ -4002,7 +4002,7 @@ lru-cache@4.1.x, lru-cache@^4.0.1, lru-cache@^4.1.1:
 
 lru-cache@^4.1.3:
   version "4.1.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/lru-cache/-/lru-cache-4.1.4.tgz#51cc46e8e6d9530771c857e24ccc720ecdbcc031"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-4.1.4.tgz#51cc46e8e6d9530771c857e24ccc720ecdbcc031"
   integrity sha1-UcxG6ObZUwdxyFfiTMxyDs28wDE=
   dependencies:
     pseudomap "^1.0.2"
@@ -4016,7 +4016,7 @@ magic-string@^0.22.4:
 
 magic-string@^0.25.0:
   version "0.25.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/magic-string/-/magic-string-0.25.1.tgz#b1c248b399cd7485da0fe7385c2fc7011843266e"
+  resolved "https://registry.yarnpkg.com/magic-string/-/magic-string-0.25.1.tgz#b1c248b399cd7485da0fe7385c2fc7011843266e"
   integrity sha1-scJIs5nNdIXaD+c4XC/HARhDJm4=
   dependencies:
     sourcemap-codec "^1.4.1"
@@ -4033,7 +4033,7 @@ make-error@^1.1.1:
 
 map-age-cleaner@^0.1.1:
   version "0.1.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/map-age-cleaner/-/map-age-cleaner-0.1.3.tgz#7d583a7306434c055fe474b0f45078e6e1b4b92a"
+  resolved "https://registry.yarnpkg.com/map-age-cleaner/-/map-age-cleaner-0.1.3.tgz#7d583a7306434c055fe474b0f45078e6e1b4b92a"
   integrity sha1-fVg6cwZDTAVf5HSw9FB45uG0uSo=
   dependencies:
     p-defer "^1.0.0"
@@ -4075,7 +4075,7 @@ mem@^1.1.0:
 
 mem@^4.0.0:
   version "4.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/mem/-/mem-4.0.0.tgz#6437690d9471678f6cc83659c00cbafcd6b0cdaf"
+  resolved "https://registry.yarnpkg.com/mem/-/mem-4.0.0.tgz#6437690d9471678f6cc83659c00cbafcd6b0cdaf"
   integrity sha1-ZDdpDZRxZ49syDZZwAy6/Nawza8=
   dependencies:
     map-age-cleaner "^0.1.1"
@@ -4161,7 +4161,7 @@ miller-rabin@^4.0.0:
 
 mime-db@~1.37.0:
   version "1.37.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/mime-db/-/mime-db-1.37.0.tgz#0b6a0ce6fdbe9576e25f1f2d2fde8830dc0ad0d8"
+  resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.37.0.tgz#0b6a0ce6fdbe9576e25f1f2d2fde8830dc0ad0d8"
   integrity sha1-C2oM5v2+lXbiXx8tL96IMNwK0Ng=
 
 mime-types@^2.1.12, mime-types@~2.1.11, mime-types@~2.1.17, mime-types@~2.1.18:
@@ -4172,7 +4172,7 @@ mime-types@^2.1.12, mime-types@~2.1.11, mime-types@~2.1.17, mime-types@~2.1.18:
 
 mime-types@~2.1.19:
   version "2.1.21"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/mime-types/-/mime-types-2.1.21.tgz#28995aa1ecb770742fe6ae7e58f9181c744b3f96"
+  resolved "https://registry.yarnpkg.com/mime-types/-/mime-types-2.1.21.tgz#28995aa1ecb770742fe6ae7e58f9181c744b3f96"
   integrity sha1-KJlaoey3cHQv5q5+WPkYHHRLP5Y=
   dependencies:
     mime-db "~1.37.0"
@@ -4187,7 +4187,7 @@ mime@^1.3.4, mime@^1.4.1:
 
 mime@^2.3.1:
   version "2.3.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/mime/-/mime-2.3.1.tgz#b1621c54d63b97c47d3cfe7f7215f7d64517c369"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-2.3.1.tgz#b1621c54d63b97c47d3cfe7f7215f7d64517c369"
   integrity sha1-sWIcVNY7l8R9PP5/chX31kUXw2k=
 
 mimic-fn@^1.0.0:
@@ -4196,7 +4196,7 @@ mimic-fn@^1.0.0:
 
 mini-css-extract-plugin@0.4.4:
   version "0.4.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/mini-css-extract-plugin/-/mini-css-extract-plugin-0.4.4.tgz#c10410a004951bd3cedac1da69053940fccb625d"
+  resolved "https://registry.yarnpkg.com/mini-css-extract-plugin/-/mini-css-extract-plugin-0.4.4.tgz#c10410a004951bd3cedac1da69053940fccb625d"
   integrity sha1-wQQQoASVG9PO2sHaaQU5QPzLYl0=
   dependencies:
     loader-utils "^1.1.0"
@@ -4259,7 +4259,7 @@ mississippi@^2.0.0:
 
 mississippi@^3.0.0:
   version "3.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/mississippi/-/mississippi-3.0.0.tgz#ea0a3291f97e0b5e8776b363d5f0a12d94c67022"
+  resolved "https://registry.yarnpkg.com/mississippi/-/mississippi-3.0.0.tgz#ea0a3291f97e0b5e8776b363d5f0a12d94c67022"
   integrity sha1-6goykfl+C16HdrNj1fChLZTGcCI=
   dependencies:
     concat-stream "^1.5.0"
@@ -4318,7 +4318,7 @@ ms@2.0.0:
 
 ms@^2.1.1:
   version "2.1.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ms/-/ms-2.1.1.tgz#30a5864eb3ebb0a66f2ebe6d727af06a09d86e0a"
+  resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.1.tgz#30a5864eb3ebb0a66f2ebe6d727af06a09d86e0a"
   integrity sha1-MKWGTrPrsKZvLr5tcnrwagnYbgo=
 
 multicast-dns-service-types@^1.1.0:
@@ -4334,7 +4334,7 @@ multicast-dns@^6.0.1:
 
 mute-stream@0.0.7:
   version "0.0.7"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/mute-stream/-/mute-stream-0.0.7.tgz#3075ce93bc21b8fab43e1bc4da7e8115ed1e7bab"
+  resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.7.tgz#3075ce93bc21b8fab43e1bc4da7e8115ed1e7bab"
   integrity sha1-MHXOk7whuPq0PhvE2n6BFe0ee6s=
 
 nan@^2.10.0, nan@^2.9.2:
@@ -4376,7 +4376,7 @@ neo-async@^2.5.0:
 
 ng-packagr@^4.4.0:
   version "4.4.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ng-packagr/-/ng-packagr-4.4.0.tgz#b868a829b5743870c6392491de3faf4e4cec6f4d"
+  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-4.4.0.tgz#b868a829b5743870c6392491de3faf4e4cec6f4d"
   integrity sha1-uGioKbV0OHDGOSSR3j+vTkzsb00=
   dependencies:
     "@ngtools/json-schema" "^1.1.0"
@@ -4409,7 +4409,7 @@ ng-packagr@^4.4.0:
 
 nice-try@^1.0.4:
   version "1.0.5"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
+  resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha1-ozeKdpbOfSI+iPybdkvX7xCJ42Y=
 
 node-forge@0.7.5:
@@ -4418,7 +4418,7 @@ node-forge@0.7.5:
 
 node-gyp@^3.8.0:
   version "3.8.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/node-gyp/-/node-gyp-3.8.0.tgz#540304261c330e80d0d5edce253a68cb3964218c"
+  resolved "https://registry.yarnpkg.com/node-gyp/-/node-gyp-3.8.0.tgz#540304261c330e80d0d5edce253a68cb3964218c"
   integrity sha1-VAMEJhwzDoDQ1e3OJTpoyzlkIYw=
   dependencies:
     fstream "^1.0.0"
@@ -4479,7 +4479,7 @@ node-pre-gyp@^0.10.0:
 
 node-releases@^1.0.1:
   version "1.0.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/node-releases/-/node-releases-1.0.4.tgz#2d585de8c6c81d00017e063e7810a63889aa6756"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.0.4.tgz#2d585de8c6c81d00017e063e7810a63889aa6756"
   integrity sha1-LVhd6MbIHQABfgY+eBCmOImqZ1Y=
   dependencies:
     semver "^5.3.0"
@@ -4492,7 +4492,7 @@ node-sass-tilde-importer@^1.0.0:
 
 node-sass@4.10.0, node-sass@^4.9.3:
   version "4.10.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/node-sass/-/node-sass-4.10.0.tgz#dcc2b364c0913630945ccbf7a2bbf1f926effca4"
+  resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.10.0.tgz#dcc2b364c0913630945ccbf7a2bbf1f926effca4"
   integrity sha1-3MKzZMCRNjCUXMv3orvx+Sbv/KQ=
   dependencies:
     async-foreach "^0.1.3"
@@ -4569,7 +4569,7 @@ npm-packlist@^1.1.6:
 
 npm-registry-client@8.6.0:
   version "8.6.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/npm-registry-client/-/npm-registry-client-8.6.0.tgz#7f1529f91450732e89f8518e0f21459deea3e4c4"
+  resolved "https://registry.yarnpkg.com/npm-registry-client/-/npm-registry-client-8.6.0.tgz#7f1529f91450732e89f8518e0f21459deea3e4c4"
   integrity sha1-fxUp+RRQcy6J+FGODyFFne6j5MQ=
   dependencies:
     concat-stream "^1.5.2"
@@ -4619,7 +4619,7 @@ oauth-sign@~0.8.2:
 
 oauth-sign@~0.9.0:
   version "0.9.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/oauth-sign/-/oauth-sign-0.9.0.tgz#47a7b016baa68b5fa0ecf3dee08a85c679ac6455"
+  resolved "https://registry.yarnpkg.com/oauth-sign/-/oauth-sign-0.9.0.tgz#47a7b016baa68b5fa0ecf3dee08a85c679ac6455"
   integrity sha1-R6ewFrqmi1+g7PPe4IqFxnmsZFU=
 
 object-assign@4.1.0:
@@ -4683,14 +4683,14 @@ once@1.x, once@^1.3.0, once@^1.3.1, once@^1.3.3, once@^1.4.0:
 
 onetime@^2.0.0:
   version "2.0.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/onetime/-/onetime-2.0.1.tgz#067428230fd67443b2794b22bba528b6867962d4"
+  resolved "https://registry.yarnpkg.com/onetime/-/onetime-2.0.1.tgz#067428230fd67443b2794b22bba528b6867962d4"
   integrity sha1-BnQoIw/WdEOyeUsiu6UotoZ5YtQ=
   dependencies:
     mimic-fn "^1.0.0"
 
 opn@5.3.0, opn@^5.1.0:
   version "5.3.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/opn/-/opn-5.3.0.tgz#64871565c863875f052cfdf53d3e3cb5adb53b1c"
+  resolved "https://registry.yarnpkg.com/opn/-/opn-5.3.0.tgz#64871565c863875f052cfdf53d3e3cb5adb53b1c"
   integrity sha1-ZIcVZchjh18FLP31PT48ta21Oxw=
   dependencies:
     is-wsl "^1.1.0"
@@ -4719,7 +4719,7 @@ options@>=0.0.5:
 
 original@^1.0.0:
   version "1.0.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/original/-/original-1.0.2.tgz#e442a61cffe1c5fd20a65f3261c26663b303f25f"
+  resolved "https://registry.yarnpkg.com/original/-/original-1.0.2.tgz#e442a61cffe1c5fd20a65f3261c26663b303f25f"
   integrity sha1-5EKmHP/hxf0gpl8yYcJmY7MD8l8=
   dependencies:
     url-parse "^1.4.3"
@@ -4748,7 +4748,7 @@ os-locale@^2.0.0:
 
 os-locale@^3.0.0:
   version "3.0.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/os-locale/-/os-locale-3.0.1.tgz#3b014fbf01d87f60a1e5348d80fe870dc82c4620"
+  resolved "https://registry.yarnpkg.com/os-locale/-/os-locale-3.0.1.tgz#3b014fbf01d87f60a1e5348d80fe870dc82c4620"
   integrity sha1-OwFPvwHYf2Ch5TSNgP6HDcgsRiA=
   dependencies:
     execa "^0.10.0"
@@ -4768,7 +4768,7 @@ osenv@0, osenv@^0.1.4, osenv@^0.1.5:
 
 p-defer@^1.0.0:
   version "1.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/p-defer/-/p-defer-1.0.0.tgz#9f6eb182f6c9aa8cd743004a7d4f96b196b0fb0c"
+  resolved "https://registry.yarnpkg.com/p-defer/-/p-defer-1.0.0.tgz#9f6eb182f6c9aa8cd743004a7d4f96b196b0fb0c"
   integrity sha1-n26xgvbJqozXQwBKfU+WsZaw+ww=
 
 p-finally@^1.0.0:
@@ -4777,7 +4777,7 @@ p-finally@^1.0.0:
 
 p-is-promise@^1.1.0:
   version "1.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/p-is-promise/-/p-is-promise-1.1.0.tgz#9c9456989e9f6588017b0434d56097675c3da05e"
+  resolved "https://registry.yarnpkg.com/p-is-promise/-/p-is-promise-1.1.0.tgz#9c9456989e9f6588017b0434d56097675c3da05e"
   integrity sha1-nJRWmJ6fZYgBewQ01WCXZ1w9oF4=
 
 p-limit@^1.0.0, p-limit@^1.1.0:
@@ -4788,7 +4788,7 @@ p-limit@^1.0.0, p-limit@^1.1.0:
 
 p-limit@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/p-limit/-/p-limit-2.0.0.tgz#e624ed54ee8c460a778b3c9f3670496ff8a57aec"
+  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.0.0.tgz#e624ed54ee8c460a778b3c9f3670496ff8a57aec"
   integrity sha1-5iTtVO6MRgp3izyfNnBJb/ileuw=
   dependencies:
     p-try "^2.0.0"
@@ -4801,7 +4801,7 @@ p-locate@^2.0.0:
 
 p-locate@^3.0.0:
   version "3.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/p-locate/-/p-locate-3.0.0.tgz#322d69a05c0264b25997d9f40cd8a891ab0064a4"
+  resolved "https://registry.yarnpkg.com/p-locate/-/p-locate-3.0.0.tgz#322d69a05c0264b25997d9f40cd8a891ab0064a4"
   integrity sha1-Mi1poFwCZLJZl9n0DNiokasAZKQ=
   dependencies:
     p-limit "^2.0.0"
@@ -4816,7 +4816,7 @@ p-try@^1.0.0:
 
 p-try@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/p-try/-/p-try-2.0.0.tgz#85080bb87c64688fa47996fe8f7dfbe8211760b1"
+  resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.0.0.tgz#85080bb87c64688fa47996fe8f7dfbe8211760b1"
   integrity sha1-hQgLuHxkaI+keZb+j3376CEXYLE=
 
 package-json@^4.0.0:
@@ -4874,7 +4874,7 @@ parse-json@^4.0.0:
 
 parse5@4.0.0:
   version "4.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/parse5/-/parse5-4.0.0.tgz#6d78656e3da8d78b4ec0b906f7c08ef1dfe3f608"
+  resolved "https://registry.yarnpkg.com/parse5/-/parse5-4.0.0.tgz#6d78656e3da8d78b4ec0b906f7c08ef1dfe3f608"
   integrity sha1-bXhlbj2o14tOwLkG98CO8d/j9gg=
 
 parsejson@0.0.3:
@@ -4951,7 +4951,7 @@ path-type@^1.0.0:
 
 path-type@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/path-type/-/path-type-2.0.0.tgz#f012ccb8415b7096fc2daa1054c3d72389594c73"
+  resolved "https://registry.yarnpkg.com/path-type/-/path-type-2.0.0.tgz#f012ccb8415b7096fc2daa1054c3d72389594c73"
   integrity sha1-8BLMuEFbcJb8LaoQVMPXI4lZTHM=
   dependencies:
     pify "^2.0.0"
@@ -5002,14 +5002,14 @@ pkg-dir@^2.0.0:
 
 pkg-dir@^3.0.0:
   version "3.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/pkg-dir/-/pkg-dir-3.0.0.tgz#2749020f239ed990881b1f71210d51eb6523bea3"
+  resolved "https://registry.yarnpkg.com/pkg-dir/-/pkg-dir-3.0.0.tgz#2749020f239ed990881b1f71210d51eb6523bea3"
   integrity sha1-J0kCDyOe2ZCIGx9xIQ1R62UjvqM=
   dependencies:
     find-up "^3.0.0"
 
 portfinder@1.0.17:
   version "1.0.17"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/portfinder/-/portfinder-1.0.17.tgz#a8a1691143e46c4735edefcf4fbcccedad26456a"
+  resolved "https://registry.yarnpkg.com/portfinder/-/portfinder-1.0.17.tgz#a8a1691143e46c4735edefcf4fbcccedad26456a"
   integrity sha1-qKFpEUPkbEc17e/PT7zM7a0mRWo=
   dependencies:
     async "^1.5.2"
@@ -5030,7 +5030,7 @@ posix-character-classes@^0.1.0:
 
 postcss-import@12.0.0:
   version "12.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/postcss-import/-/postcss-import-12.0.0.tgz#149f96a4ef0b27525c419784be8517ebd17e92c5"
+  resolved "https://registry.yarnpkg.com/postcss-import/-/postcss-import-12.0.0.tgz#149f96a4ef0b27525c419784be8517ebd17e92c5"
   integrity sha1-FJ+WpO8LJ1JcQZeEvoUX69F+ksU=
   dependencies:
     postcss "^7.0.1"
@@ -5040,7 +5040,7 @@ postcss-import@12.0.0:
 
 postcss-load-config@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/postcss-load-config/-/postcss-load-config-2.0.0.tgz#f1312ddbf5912cd747177083c5ef7a19d62ee484"
+  resolved "https://registry.yarnpkg.com/postcss-load-config/-/postcss-load-config-2.0.0.tgz#f1312ddbf5912cd747177083c5ef7a19d62ee484"
   integrity sha1-8TEt2/WRLNdHF3CDxe96GdYu5IQ=
   dependencies:
     cosmiconfig "^4.0.0"
@@ -5048,7 +5048,7 @@ postcss-load-config@^2.0.0:
 
 postcss-loader@3.0.0:
   version "3.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/postcss-loader/-/postcss-loader-3.0.0.tgz#6b97943e47c72d845fa9e03f273773d4e8dd6c2d"
+  resolved "https://registry.yarnpkg.com/postcss-loader/-/postcss-loader-3.0.0.tgz#6b97943e47c72d845fa9e03f273773d4e8dd6c2d"
   integrity sha1-a5eUPkfHLYRfqeA/Jzdz1OjdbC0=
   dependencies:
     loader-utils "^1.1.0"
@@ -5058,7 +5058,7 @@ postcss-loader@3.0.0:
 
 postcss-url@^8.0.0:
   version "8.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/postcss-url/-/postcss-url-8.0.0.tgz#7b10059bd12929cdbb1971c60f61a0e5af86b4ca"
+  resolved "https://registry.yarnpkg.com/postcss-url/-/postcss-url-8.0.0.tgz#7b10059bd12929cdbb1971c60f61a0e5af86b4ca"
   integrity sha1-exAFm9EpKc27GXHGD2Gg5a+GtMo=
   dependencies:
     mime "^2.3.1"
@@ -5073,12 +5073,12 @@ postcss-value-parser@^3.2.3:
 
 postcss-value-parser@^3.3.1:
   version "3.3.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz#9ff822547e2893213cf1c30efa51ac5fd1ba8281"
+  resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz#9ff822547e2893213cf1c30efa51ac5fd1ba8281"
   integrity sha1-n/giVH4okyE88cMO+lGsX9G6goE=
 
 postcss@7.0.5:
   version "7.0.5"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/postcss/-/postcss-7.0.5.tgz#70e6443e36a6d520b0fd4e7593fcca3635ee9f55"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.5.tgz#70e6443e36a6d520b0fd4e7593fcca3635ee9f55"
   integrity sha1-cOZEPjam1SCw/U51k/zKNjXun1U=
   dependencies:
     chalk "^2.4.1"
@@ -5087,7 +5087,7 @@ postcss@7.0.5:
 
 postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.2, postcss@^7.0.5:
   version "7.0.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/postcss/-/postcss-7.0.6.tgz#6dcaa1e999cdd4a255dcd7d4d9547f4ca010cdc2"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.6.tgz#6dcaa1e999cdd4a255dcd7d4d9547f4ca010cdc2"
   integrity sha1-bcqh6ZnN1KJV3NfU2VR/TKAQzcI=
   dependencies:
     chalk "^2.4.1"
@@ -5130,7 +5130,7 @@ promise@^7.1.1:
 
 promise@~7.0.1:
   version "7.0.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/promise/-/promise-7.0.4.tgz#363e84a4c36c8356b890fed62c91ce85d02ed539"
+  resolved "https://registry.yarnpkg.com/promise/-/promise-7.0.4.tgz#363e84a4c36c8356b890fed62c91ce85d02ed539"
   integrity sha1-Nj6EpMNsg1a4kP7WLJHOhdAu1Tk=
   dependencies:
     asap "~2.0.3"
@@ -5172,7 +5172,7 @@ pseudomap@^1.0.2:
 
 psl@^1.1.24:
   version "1.1.29"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/psl/-/psl-1.1.29.tgz#60f580d360170bb722a797cc704411e6da850c67"
+  resolved "https://registry.yarnpkg.com/psl/-/psl-1.1.29.tgz#60f580d360170bb722a797cc704411e6da850c67"
   integrity sha1-YPWA02AXC7cip5fMcEQR5tqFDGc=
 
 public-encrypt@^4.0.0:
@@ -5194,7 +5194,7 @@ pump@^2.0.0, pump@^2.0.1:
 
 pump@^3.0.0:
   version "3.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/pump/-/pump-3.0.0.tgz#b4a2116815bde2f4e1ea602354e8c75565107a64"
+  resolved "https://registry.yarnpkg.com/pump/-/pump-3.0.0.tgz#b4a2116815bde2f4e1ea602354e8c75565107a64"
   integrity sha1-tKIRaBW94vTh6mAjVOjHVWUQemQ=
   dependencies:
     end-of-stream "^1.1.0"
@@ -5297,7 +5297,7 @@ raw-body@2.3.3:
 
 raw-loader@0.5.1:
   version "0.5.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/raw-loader/-/raw-loader-0.5.1.tgz#0c3d0beaed8a01c966d9787bf778281252a979aa"
+  resolved "https://registry.yarnpkg.com/raw-loader/-/raw-loader-0.5.1.tgz#0c3d0beaed8a01c966d9787bf778281252a979aa"
   integrity sha1-DD0L6u2KAclm2Xh793goElKpeao=
 
 rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
@@ -5324,7 +5324,7 @@ read-pkg-up@^1.0.1:
 
 read-pkg-up@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/read-pkg-up/-/read-pkg-up-2.0.0.tgz#6b72a8048984e0c41e79510fd5e9fa99b3b549be"
+  resolved "https://registry.yarnpkg.com/read-pkg-up/-/read-pkg-up-2.0.0.tgz#6b72a8048984e0c41e79510fd5e9fa99b3b549be"
   integrity sha1-a3KoBImE4MQeeVEP1en6mbO1Sb4=
   dependencies:
     find-up "^2.0.0"
@@ -5332,7 +5332,7 @@ read-pkg-up@^2.0.0:
 
 read-pkg-up@^4.0.0:
   version "4.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/read-pkg-up/-/read-pkg-up-4.0.0.tgz#1b221c6088ba7799601c808f91161c66e58f8978"
+  resolved "https://registry.yarnpkg.com/read-pkg-up/-/read-pkg-up-4.0.0.tgz#1b221c6088ba7799601c808f91161c66e58f8978"
   integrity sha1-GyIcYIi6d5lgHICPkRYcZuWPiXg=
   dependencies:
     find-up "^3.0.0"
@@ -5348,7 +5348,7 @@ read-pkg@^1.0.0:
 
 read-pkg@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/read-pkg/-/read-pkg-2.0.0.tgz#8ef1c0623c6a6db0dc6713c4bfac46332b2368f8"
+  resolved "https://registry.yarnpkg.com/read-pkg/-/read-pkg-2.0.0.tgz#8ef1c0623c6a6db0dc6713c4bfac46332b2368f8"
   integrity sha1-jvHAYjxqbbDcZxPEv6xGMysjaPg=
   dependencies:
     load-json-file "^2.0.0"
@@ -5406,7 +5406,7 @@ readdirp@^2.0.0:
 
 rechoir@^0.6.2:
   version "0.6.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/rechoir/-/rechoir-0.6.2.tgz#85204b54dba82d5742e28c96756ef43af50e3384"
+  resolved "https://registry.yarnpkg.com/rechoir/-/rechoir-0.6.2.tgz#85204b54dba82d5742e28c96756ef43af50e3384"
   integrity sha1-hSBLVNuoLVdC4oyWdW70OvUOM4Q=
   dependencies:
     resolve "^1.1.6"
@@ -5523,7 +5523,7 @@ request@^2.74.0, request@^2.78.0, request@^2.83.0:
 
 request@^2.87.0, request@^2.88.0:
   version "2.88.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
+  resolved "https://registry.yarnpkg.com/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
   integrity sha1-nC/KT301tZLv5Xx/ClXoEFIST+8=
   dependencies:
     aws-sign2 "~0.7.0"
@@ -5553,7 +5553,7 @@ require-directory@^2.1.1:
 
 require-from-string@^2.0.1:
   version "2.0.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/require-from-string/-/require-from-string-2.0.2.tgz#89a7fdd938261267318eafe14f9c32e598c36909"
+  resolved "https://registry.yarnpkg.com/require-from-string/-/require-from-string-2.0.2.tgz#89a7fdd938261267318eafe14f9c32e598c36909"
   integrity sha1-iaf92TgmEmcxjq/hT5wy5ZjDaQk=
 
 require-main-filename@^1.0.1:
@@ -5590,7 +5590,7 @@ resolve@^1.1.6, resolve@^1.1.7, resolve@^1.3.2, resolve@^1.5.0:
 
 restore-cursor@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/restore-cursor/-/restore-cursor-2.0.0.tgz#9f7ee287f82fd326d4fd162923d62129eee0dfaf"
+  resolved "https://registry.yarnpkg.com/restore-cursor/-/restore-cursor-2.0.0.tgz#9f7ee287f82fd326d4fd162923d62129eee0dfaf"
   integrity sha1-n37ih/gv0ybU/RYpI9YhKe7g368=
   dependencies:
     onetime "^2.0.0"
@@ -5634,7 +5634,7 @@ rollup-plugin-commonjs@^9.1.3:
 
 rollup-plugin-json@^3.1.0:
   version "3.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/rollup-plugin-json/-/rollup-plugin-json-3.1.0.tgz#7c1daf60c46bc21021ea016bd00863561a03321b"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-json/-/rollup-plugin-json-3.1.0.tgz#7c1daf60c46bc21021ea016bd00863561a03321b"
   integrity sha1-fB2vYMRrwhAh6gFr0AhjVhoDMhs=
   dependencies:
     rollup-pluginutils "^2.3.1"
@@ -5663,7 +5663,7 @@ rollup-pluginutils@^2.0.1:
 
 rollup-pluginutils@^2.3.1:
   version "2.3.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/rollup-pluginutils/-/rollup-pluginutils-2.3.3.tgz#3aad9b1eb3e7fe8262820818840bf091e5ae6794"
+  resolved "https://registry.yarnpkg.com/rollup-pluginutils/-/rollup-pluginutils-2.3.3.tgz#3aad9b1eb3e7fe8262820818840bf091e5ae6794"
   integrity sha1-Oq2bHrPn/oJigggYhAvwkeWuZ5Q=
   dependencies:
     estree-walker "^0.5.2"
@@ -5671,7 +5671,7 @@ rollup-pluginutils@^2.3.1:
 
 rollup@^0.66.0:
   version "0.66.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/rollup/-/rollup-0.66.6.tgz#ce7d6185beb7acea644ce220c25e71ae03275482"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-0.66.6.tgz#ce7d6185beb7acea644ce220c25e71ae03275482"
   integrity sha1-zn1hhb63rOpkTOIgwl5xrgMnVII=
   dependencies:
     "@types/estree" "0.0.39"
@@ -5679,7 +5679,7 @@ rollup@^0.66.0:
 
 run-async@^2.2.0:
   version "2.3.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/run-async/-/run-async-2.3.0.tgz#0371ab4ae0bdd720d4166d7dfda64ff7a445a6c0"
+  resolved "https://registry.yarnpkg.com/run-async/-/run-async-2.3.0.tgz#0371ab4ae0bdd720d4166d7dfda64ff7a445a6c0"
   integrity sha1-A3GrSuC91yDUFm19/aZP96RFpsA=
   dependencies:
     is-promise "^2.1.0"
@@ -5692,7 +5692,7 @@ run-queue@^1.0.0, run-queue@^1.0.3:
 
 rxjs@6.3.3, rxjs@^6.1.0, rxjs@^6.3.3:
   version "6.3.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/rxjs/-/rxjs-6.3.3.tgz#3c6a7fa420e844a81390fb1158a9ec614f4bad55"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.3.3.tgz#3c6a7fa420e844a81390fb1158a9ec614f4bad55"
   integrity sha1-PGp/pCDoRKgTkPsRWKnsYU9LrVU=
   dependencies:
     tslib "^1.9.0"
@@ -5732,7 +5732,7 @@ sass-graph@^2.2.4:
 
 sass-loader@7.1.0:
   version "7.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/sass-loader/-/sass-loader-7.1.0.tgz#16fd5138cb8b424bf8a759528a1972d72aad069d"
+  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-7.1.0.tgz#16fd5138cb8b424bf8a759528a1972d72aad069d"
   integrity sha1-Fv1ROMuLQkv4p1lSihly1yqtBp0=
   dependencies:
     clone-deep "^2.0.1"
@@ -5775,7 +5775,7 @@ schema-utils@^0.4.4, schema-utils@^0.4.5:
 
 schema-utils@^1.0.0:
   version "1.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/schema-utils/-/schema-utils-1.0.0.tgz#0b79a93204d7b600d4b2850d1f66c2a34951c770"
+  resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-1.0.0.tgz#0b79a93204d7b600d4b2850d1f66c2a34951c770"
   integrity sha1-C3mpMgTXtgDUsoUNH2bCo0lRx3A=
   dependencies:
     ajv "^6.1.0"
@@ -5832,7 +5832,7 @@ semver-dsl@^1.0.1:
 
 semver-intersect@1.4.0:
   version "1.4.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/semver-intersect/-/semver-intersect-1.4.0.tgz#bdd9c06bedcdd2fedb8cd352c3c43ee8c61321f3"
+  resolved "https://registry.yarnpkg.com/semver-intersect/-/semver-intersect-1.4.0.tgz#bdd9c06bedcdd2fedb8cd352c3c43ee8c61321f3"
   integrity sha1-vdnAa+3N0v7bjNNSw8Q+6MYTIfM=
   dependencies:
     semver "^5.0.0"
@@ -5843,7 +5843,7 @@ semver-intersect@1.4.0:
 
 semver@5.5.1:
   version "5.5.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/semver/-/semver-5.5.1.tgz#7dfdd8814bdb7cabc7be0fb1d734cfb66c940477"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-5.5.1.tgz#7dfdd8814bdb7cabc7be0fb1d734cfb66c940477"
   integrity sha1-ff3YgUvbfKvHvg+x1zTPtmyUBHc=
 
 semver@~4.3.3:
@@ -5962,7 +5962,7 @@ shebang-regex@^1.0.0:
 
 shelljs@^0.8.1:
   version "0.8.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/shelljs/-/shelljs-0.8.3.tgz#a7f3319520ebf09ee81275b2368adb286659b097"
+  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.3.tgz#a7f3319520ebf09ee81275b2368adb286659b097"
   integrity sha1-p/MxlSDr8J7oEnWyNorbKGZZsJc=
   dependencies:
     glob "^7.0.0"
@@ -6054,7 +6054,7 @@ socket.io@1.7.3:
 
 sockjs-client@1.3.0:
   version "1.3.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/sockjs-client/-/sockjs-client-1.3.0.tgz#12fc9d6cb663da5739d3dc5fb6e8687da95cb177"
+  resolved "https://registry.yarnpkg.com/sockjs-client/-/sockjs-client-1.3.0.tgz#12fc9d6cb663da5739d3dc5fb6e8687da95cb177"
   integrity sha1-EvydbLZj2lc509xftuhofalcsXc=
   dependencies:
     debug "^3.2.5"
@@ -6081,7 +6081,7 @@ source-list-map@~0.1.7:
 
 source-map-loader@0.2.4:
   version "0.2.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/source-map-loader/-/source-map-loader-0.2.4.tgz#c18b0dc6e23bf66f6792437557c569a11e072271"
+  resolved "https://registry.yarnpkg.com/source-map-loader/-/source-map-loader-0.2.4.tgz#c18b0dc6e23bf66f6792437557c569a11e072271"
   integrity sha1-wYsNxuI79m9nkkN1V8VpoR4HInE=
   dependencies:
     async "^2.5.0"
@@ -6099,7 +6099,7 @@ source-map-resolve@^0.5.0:
 
 source-map-support@0.5.9, source-map-support@~0.5.6:
   version "0.5.9"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/source-map-support/-/source-map-support-0.5.9.tgz#41bc953b2534267ea2d605bccfa7bfa3111ced5f"
+  resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.9.tgz#41bc953b2534267ea2d605bccfa7bfa3111ced5f"
   integrity sha1-QbyVOyU0Jn6i1gW8z6e/oxEc7V8=
   dependencies:
     buffer-from "^1.0.0"
@@ -6130,7 +6130,7 @@ source-map@0.1.x:
 
 source-map@0.5.6:
   version "0.5.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/source-map/-/source-map-0.5.6.tgz#75ce38f52bf0733c5a7f0c118d81334a2bb5f412"
+  resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.6.tgz#75ce38f52bf0733c5a7f0c118d81334a2bb5f412"
   integrity sha1-dc449SvwczxafwwRjYEzSiu19BI=
 
 source-map@0.5.x, source-map@^0.5.3, source-map@^0.5.6, source-map@^0.5.7, source-map@~0.5.1:
@@ -6139,7 +6139,7 @@ source-map@0.5.x, source-map@^0.5.3, source-map@^0.5.6, source-map@^0.5.7, sourc
 
 source-map@0.7.3, source-map@^0.7.3:
   version "0.7.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/source-map/-/source-map-0.7.3.tgz#5302f8169031735226544092e64981f751750383"
+  resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.7.3.tgz#5302f8169031735226544092e64981f751750383"
   integrity sha1-UwL4FpAxc1ImVECS5kmB91F1A4M=
 
 source-map@^0.4.2, source-map@^0.4.4, source-map@~0.4.1:
@@ -6160,7 +6160,7 @@ source-map@~0.2.0:
 
 sourcemap-codec@^1.4.1:
   version "1.4.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/sourcemap-codec/-/sourcemap-codec-1.4.4.tgz#c63ea927c029dd6bd9a2b7fa03b3fec02ad56e9f"
+  resolved "https://registry.yarnpkg.com/sourcemap-codec/-/sourcemap-codec-1.4.4.tgz#c63ea927c029dd6bd9a2b7fa03b3fec02ad56e9f"
   integrity sha1-xj6pJ8Ap3WvZorf6A7P+wCrVbp8=
 
 spdx-correct@^3.0.0:
@@ -6210,7 +6210,7 @@ spdy@^3.4.1:
 
 speed-measure-webpack-plugin@1.2.3:
   version "1.2.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/speed-measure-webpack-plugin/-/speed-measure-webpack-plugin-1.2.3.tgz#de170b5cefbfa1c039d95e639edd3ad50cfc7c48"
+  resolved "https://registry.yarnpkg.com/speed-measure-webpack-plugin/-/speed-measure-webpack-plugin-1.2.3.tgz#de170b5cefbfa1c039d95e639edd3ad50cfc7c48"
   integrity sha1-3hcLXO+/ocA52V5jnt061Qz8fEg=
   dependencies:
     chalk "^2.0.1"
@@ -6223,7 +6223,7 @@ split-string@^3.0.1, split-string@^3.0.2:
 
 sprintf-js@^1.1.1:
   version "1.1.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/sprintf-js/-/sprintf-js-1.1.1.tgz#36be78320afe5801f6cea3ee78b6e5aab940ea0c"
+  resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.1.1.tgz#36be78320afe5801f6cea3ee78b6e5aab940ea0c"
   integrity sha1-Nr54Mgr+WAH2zqPueLblqrlA6gw=
 
 sprintf-js@~1.0.2:
@@ -6252,7 +6252,7 @@ ssri@^5.2.4:
 
 ssri@^6.0.0:
   version "6.0.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
   integrity sha1-KjxBso3UW2K2Nnbst0ABJlrp7dg=
   dependencies:
     figgy-pudding "^3.5.1"
@@ -6266,7 +6266,7 @@ static-extend@^0.1.1:
 
 stats-webpack-plugin@0.7.0:
   version "0.7.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/stats-webpack-plugin/-/stats-webpack-plugin-0.7.0.tgz#ccffe9b745de8bbb155571e063f8263fc0e2bc06"
+  resolved "https://registry.yarnpkg.com/stats-webpack-plugin/-/stats-webpack-plugin-0.7.0.tgz#ccffe9b745de8bbb155571e063f8263fc0e2bc06"
   integrity sha1-zP/pt0Xei7sVVXHgY/gmP8DivAY=
   dependencies:
     lodash "^4.17.4"
@@ -6380,7 +6380,7 @@ strip-json-comments@~2.0.1:
 
 style-loader@0.23.1:
   version "0.23.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/style-loader/-/style-loader-0.23.1.tgz#cb9154606f3e771ab6c4ab637026a1049174d925"
+  resolved "https://registry.yarnpkg.com/style-loader/-/style-loader-0.23.1.tgz#cb9154606f3e771ab6c4ab637026a1049174d925"
   integrity sha1-y5FUYG8+dxq2xKtjcCahBJF02SU=
   dependencies:
     loader-utils "^1.1.0"
@@ -6388,7 +6388,7 @@ style-loader@0.23.1:
 
 stylus-loader@3.0.2:
   version "3.0.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/stylus-loader/-/stylus-loader-3.0.2.tgz#27a706420b05a38e038e7cacb153578d450513c6"
+  resolved "https://registry.yarnpkg.com/stylus-loader/-/stylus-loader-3.0.2.tgz#27a706420b05a38e038e7cacb153578d450513c6"
   integrity sha1-J6cGQgsFo44DjnyssVNXjUUFE8Y=
   dependencies:
     loader-utils "^1.0.2"
@@ -6397,7 +6397,7 @@ stylus-loader@3.0.2:
 
 stylus@0.54.5, stylus@^0.54.5:
   version "0.54.5"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/stylus/-/stylus-0.54.5.tgz#42b9560931ca7090ce8515a798ba9e6aa3d6dc79"
+  resolved "https://registry.yarnpkg.com/stylus/-/stylus-0.54.5.tgz#42b9560931ca7090ce8515a798ba9e6aa3d6dc79"
   integrity sha1-QrlWCTHKcJDOhRWnmLqeaqPW3Hk=
   dependencies:
     css-parse "1.7.x"
@@ -6425,14 +6425,14 @@ supports-color@^5.1.0, supports-color@^5.3.0:
 
 supports-color@^5.5.0:
   version "5.5.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/supports-color/-/supports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
+  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
   integrity sha1-4uaaRKyHcveKHsCzW2id9lMO/I8=
   dependencies:
     has-flag "^3.0.0"
 
 symbol-observable@1.2.0:
   version "1.2.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/symbol-observable/-/symbol-observable-1.2.0.tgz#c22688aed4eab3cdc2dfeacbb561660560a00804"
+  resolved "https://registry.yarnpkg.com/symbol-observable/-/symbol-observable-1.2.0.tgz#c22688aed4eab3cdc2dfeacbb561660560a00804"
   integrity sha1-wiaIrtTqs83C3+rLtWFmBWCgCAQ=
 
 tapable@^1.0.0:
@@ -6441,7 +6441,7 @@ tapable@^1.0.0:
 
 tapable@^1.1.0:
   version "1.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/tapable/-/tapable-1.1.0.tgz#0d076a172e3d9ba088fd2272b2668fb8d194b78c"
+  resolved "https://registry.yarnpkg.com/tapable/-/tapable-1.1.0.tgz#0d076a172e3d9ba088fd2272b2668fb8d194b78c"
   integrity sha1-DQdqFy49m6CI/SJysmaPuNGUt4w=
 
 tar@^2.0.0:
@@ -6472,7 +6472,7 @@ term-size@^1.2.0:
 
 terser-webpack-plugin@1.1.0:
   version "1.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/terser-webpack-plugin/-/terser-webpack-plugin-1.1.0.tgz#cf7c25a1eee25bf121f4a587bb9e004e3f80e528"
+  resolved "https://registry.yarnpkg.com/terser-webpack-plugin/-/terser-webpack-plugin-1.1.0.tgz#cf7c25a1eee25bf121f4a587bb9e004e3f80e528"
   integrity sha1-z3wloe7iW/Eh9KWHu54ATj+A5Sg=
   dependencies:
     cacache "^11.0.2"
@@ -6486,7 +6486,7 @@ terser-webpack-plugin@1.1.0:
 
 terser@^3.8.1:
   version "3.10.12"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/terser/-/terser-3.10.12.tgz#06d40765e40b33fd97977c0896c75b2b5d42142d"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-3.10.12.tgz#06d40765e40b33fd97977c0896c75b2b5d42142d"
   integrity sha1-BtQHZeQLM/2Xl3wIlsdbK11CFC0=
   dependencies:
     commander "~2.17.1"
@@ -6502,7 +6502,7 @@ through2@^2.0.0:
 
 through@X.X.X, through@^2.3.6:
   version "2.3.8"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
+  resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU=
 
 thunky@^1.0.2:
@@ -6537,7 +6537,7 @@ tmp@0.0.31:
 
 tmp@0.0.x, tmp@^0.0.33:
   version "0.0.33"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/tmp/-/tmp-0.0.33.tgz#6d34335889768d21b2bcda0aa277ced3b1bfadf9"
+  resolved "https://registry.yarnpkg.com/tmp/-/tmp-0.0.33.tgz#6d34335889768d21b2bcda0aa277ced3b1bfadf9"
   integrity sha1-bTQzWIl2jSGyvNoKonfO07G/rfk=
   dependencies:
     os-tmpdir "~1.0.2"
@@ -6584,7 +6584,7 @@ tough-cookie@~2.3.3:
 
 tough-cookie@~2.4.3:
   version "2.4.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/tough-cookie/-/tough-cookie-2.4.3.tgz#53f36da3f47783b0925afa06ff9f3b165280f781"
+  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-2.4.3.tgz#53f36da3f47783b0925afa06ff9f3b165280f781"
   integrity sha1-U/Nto/R3g7CSWvoG/587FlKA94E=
   dependencies:
     psl "^1.1.24"
@@ -6592,7 +6592,7 @@ tough-cookie@~2.4.3:
 
 tree-kill@1.2.0:
   version "1.2.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/tree-kill/-/tree-kill-1.2.0.tgz#5846786237b4239014f05db156b643212d4c6f36"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.0.tgz#5846786237b4239014f05db156b643212d4c6f36"
   integrity sha1-WEZ4Yje0I5AU8F2xVrZDIS1MbzY=
 
 trim-newlines@^1.0.0:
@@ -6624,7 +6624,7 @@ ts-node@~5.0.1:
 
 tsickle@^0.34.0:
   version "0.34.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/tsickle/-/tsickle-0.34.0.tgz#10187fa6401a288a65efb93a60bf28b2ff95f90b"
+  resolved "https://registry.yarnpkg.com/tsickle/-/tsickle-0.34.0.tgz#10187fa6401a288a65efb93a60bf28b2ff95f90b"
   integrity sha1-EBh/pkAaKIpl77k6YL8osv+V+Qs=
   dependencies:
     minimist "^1.2.0"
@@ -6637,12 +6637,12 @@ tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
 
 tslib@^1.9.3:
   version "1.9.3"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
   integrity sha1-1+TdeSRdhUKMTX5IIqeZF5VMooY=
 
 tslint@~5.11.0:
   version "5.11.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/tslint/-/tslint-5.11.0.tgz#98f30c02eae3cde7006201e4c33cb08b48581eed"
+  resolved "https://registry.yarnpkg.com/tslint/-/tslint-5.11.0.tgz#98f30c02eae3cde7006201e4c33cb08b48581eed"
   integrity sha1-mPMMAurjzecAYgHkwzywi0hYHu0=
   dependencies:
     babel-code-frame "^6.22.0"
@@ -6660,7 +6660,7 @@ tslint@~5.11.0:
 
 tsutils@^2.27.2:
   version "2.29.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/tsutils/-/tsutils-2.29.0.tgz#32b488501467acbedd4b85498673a0812aca0b99"
+  resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.29.0.tgz#32b488501467acbedd4b85498673a0812aca0b99"
   integrity sha1-MrSIUBRnrL7dS4VJhnOggSrKC5k=
   dependencies:
     tslib "^1.8.1"
@@ -6698,7 +6698,7 @@ typedarray@^0.0.6:
 
 typescript@3.1.6, typescript@~3.1.6:
   version "3.1.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/typescript/-/typescript-3.1.6.tgz#b6543a83cfc8c2befb3f4c8fba6896f5b0c9be68"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.1.6.tgz#b6543a83cfc8c2befb3f4c8fba6896f5b0c9be68"
   integrity sha1-tlQ6g8/Iwr77P0yPumiW9bDJvmg=
 
 uglify-es@^3.3.4:
@@ -6828,7 +6828,7 @@ url-parse-lax@^1.0.0:
 
 url-parse@^1.4.3:
   version "1.4.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/url-parse/-/url-parse-1.4.4.tgz#cac1556e95faa0303691fec5cf9d5a1bc34648f8"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.4.tgz#cac1556e95faa0303691fec5cf9d5a1bc34648f8"
   integrity sha1-ysFVbpX6oDA2kf7Fz51aG8NGSPg=
   dependencies:
     querystringify "^2.0.0"
@@ -6874,7 +6874,7 @@ uuid@^3.0.1, uuid@^3.1.0:
 
 uuid@^3.3.2:
   version "3.3.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha1-G0r0lV6zB3xQHCOHL8ZROBFYcTE=
 
 validate-npm-package-license@^3.0.1:
@@ -6962,7 +6962,7 @@ webpack-core@^0.6.8:
 
 webpack-dev-middleware@3.4.0:
   version "3.4.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/webpack-dev-middleware/-/webpack-dev-middleware-3.4.0.tgz#1132fecc9026fd90f0ecedac5cbff75d1fb45890"
+  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-3.4.0.tgz#1132fecc9026fd90f0ecedac5cbff75d1fb45890"
   integrity sha1-ETL+zJAm/ZDw7O2sXL/3XR+0WJA=
   dependencies:
     memory-fs "~0.4.1"
@@ -6972,7 +6972,7 @@ webpack-dev-middleware@3.4.0:
 
 webpack-dev-server@3.1.10:
   version "3.1.10"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/webpack-dev-server/-/webpack-dev-server-3.1.10.tgz#507411bee727ee8d2fdffdc621b66a64ab3dea2b"
+  resolved "https://registry.yarnpkg.com/webpack-dev-server/-/webpack-dev-server-3.1.10.tgz#507411bee727ee8d2fdffdc621b66a64ab3dea2b"
   integrity sha1-UHQRvucn7o0v3/3GIbZqZKs96is=
   dependencies:
     ansi-html "0.0.7"
@@ -7006,7 +7006,7 @@ webpack-dev-server@3.1.10:
 
 webpack-log@^2.0.0:
   version "2.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/webpack-log/-/webpack-log-2.0.0.tgz#5b7928e0637593f119d32f6227c1e0ac31e1b47f"
+  resolved "https://registry.yarnpkg.com/webpack-log/-/webpack-log-2.0.0.tgz#5b7928e0637593f119d32f6227c1e0ac31e1b47f"
   integrity sha1-W3ko4GN1k/EZ0y9iJ8HgrDHhtH8=
   dependencies:
     ansi-colors "^3.0.0"
@@ -7014,14 +7014,14 @@ webpack-log@^2.0.0:
 
 webpack-merge@4.1.4:
   version "4.1.4"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/webpack-merge/-/webpack-merge-4.1.4.tgz#0fde38eabf2d5fd85251c24a5a8c48f8a3f4eb7b"
+  resolved "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-4.1.4.tgz#0fde38eabf2d5fd85251c24a5a8c48f8a3f4eb7b"
   integrity sha1-D9446r8tX9hSUcJKWoxI+KP063s=
   dependencies:
     lodash "^4.17.5"
 
 webpack-sources@1.2.0:
   version "1.2.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/webpack-sources/-/webpack-sources-1.2.0.tgz#18181e0d013fce096faf6f8e6d41eeffffdceac2"
+  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-1.2.0.tgz#18181e0d013fce096faf6f8e6d41eeffffdceac2"
   integrity sha1-GBgeDQE/zglvr2+ObUHu///c6sI=
   dependencies:
     source-list-map "^2.0.0"
@@ -7029,7 +7029,7 @@ webpack-sources@1.2.0:
 
 webpack-sources@1.3.0, webpack-sources@^1.2.0, webpack-sources@^1.3.0:
   version "1.3.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/webpack-sources/-/webpack-sources-1.3.0.tgz#2a28dcb9f1f45fe960d8f1493252b5ee6530fa85"
+  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-1.3.0.tgz#2a28dcb9f1f45fe960d8f1493252b5ee6530fa85"
   integrity sha1-KijcufH0X+lg2PFJMlK17mUw+oU=
   dependencies:
     source-list-map "^2.0.0"
@@ -7044,14 +7044,14 @@ webpack-sources@^1.1.0:
 
 webpack-subresource-integrity@1.1.0-rc.6:
   version "1.1.0-rc.6"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/webpack-subresource-integrity/-/webpack-subresource-integrity-1.1.0-rc.6.tgz#37f6f1264e1eb378e41465a98da80fad76ab8886"
+  resolved "https://registry.yarnpkg.com/webpack-subresource-integrity/-/webpack-subresource-integrity-1.1.0-rc.6.tgz#37f6f1264e1eb378e41465a98da80fad76ab8886"
   integrity sha1-N/bxJk4es3jkFGWpjagPrXariIY=
   dependencies:
     webpack-core "^0.6.8"
 
 webpack@4.23.1:
   version "4.23.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/webpack/-/webpack-4.23.1.tgz#db7467b116771ae020c58bdfe2a0822785bb8239"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-4.23.1.tgz#db7467b116771ae020c58bdfe2a0822785bb8239"
   integrity sha1-23RnsRZ3GuAgxYvf4qCCJ4W7gjk=
   dependencies:
     "@webassemblyjs/ast" "1.7.10"
@@ -7211,7 +7211,7 @@ xmlhttprequest-ssl@1.5.3:
 
 xregexp@4.0.0:
   version "4.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/xregexp/-/xregexp-4.0.0.tgz#e698189de49dd2a18cc5687b05e17c8e43943020"
+  resolved "https://registry.yarnpkg.com/xregexp/-/xregexp-4.0.0.tgz#e698189de49dd2a18cc5687b05e17c8e43943020"
   integrity sha1-5pgYneSd0qGMxWh7BeF8jkOUMCA=
 
 xtend@^4.0.0, xtend@~4.0.1:
@@ -7242,7 +7242,7 @@ yallist@^3.0.0, yallist@^3.0.2:
 
 yargs-parser@^10.1.0:
   version "10.1.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/yargs-parser/-/yargs-parser-10.1.0.tgz#7202265b89f7e9e9f2e5765e0fe735a905edbaa8"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-10.1.0.tgz#7202265b89f7e9e9f2e5765e0fe735a905edbaa8"
   integrity sha1-cgImW4n36eny5XZeD+c1qQXtuqg=
   dependencies:
     camelcase "^4.1.0"
@@ -7255,14 +7255,14 @@ yargs-parser@^5.0.0:
 
 yargs-parser@^7.0.0:
   version "7.0.0"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/yargs-parser/-/yargs-parser-7.0.0.tgz#8d0ac42f16ea55debd332caf4c4038b3e3f5dfd9"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-7.0.0.tgz#8d0ac42f16ea55debd332caf4c4038b3e3f5dfd9"
   integrity sha1-jQrELxbqVd69MyyvTEA4s+P139k=
   dependencies:
     camelcase "^4.1.0"
 
 yargs@12.0.2:
   version "12.0.2"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/yargs/-/yargs-12.0.2.tgz#fe58234369392af33ecbef53819171eff0f5aadc"
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-12.0.2.tgz#fe58234369392af33ecbef53819171eff0f5aadc"
   integrity sha1-/lgjQ2k5KvM+y+9TgZFx7/D1qtw=
   dependencies:
     cliui "^4.0.0"
@@ -7280,7 +7280,7 @@ yargs@12.0.2:
 
 yargs@9.0.1:
   version "9.0.1"
-  resolved "https://repo.webfactory.intelligence-airbusds.com/api/npm/npm/yargs/-/yargs-9.0.1.tgz#52acc23feecac34042078ee78c0c007f5085db4c"
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-9.0.1.tgz#52acc23feecac34042078ee78c0c007f5085db4c"
   integrity sha1-UqzCP+7Kw0BCB47njAwAf1CF20w=
   dependencies:
     camelcase "^4.1.0"
